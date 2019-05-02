@@ -1,0 +1,16 @@
+nfspath=/home/mvaittin/nfs
+hwaddr=6c:ec:eb:68:de:78
+ipaddr=192.168.255.1
+serverip=192.168.255.126
+fdtaddr=0x82000000
+loadaddr=0x81000000
+kernel_file=zImage
+fdtfile=am335x-boneblack.dtb
+console=ttyO0,115200n8
+netmask=255.255.255.0
+loadzimage=tftp ${loadaddr} ${kernel_file}
+loadfdt=tftp ${fdtaddr} ${fdtfile}
+my_bootargs=setenv bootargs console=${console} ${optargs} root=/dev/nfs rw nfsroot=${serverip}:${nfspath} ip=${ipaddr}:${serverip}::${netmask}:bbb1:eth0 nfsrootdebug
+uenvcmd=run loadzimage; run loadfdt; run my_bootargs; bootz ${loadaddr} - ${fdtaddr}
+
+
