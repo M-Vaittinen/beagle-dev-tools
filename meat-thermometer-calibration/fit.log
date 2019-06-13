@@ -1,0 +1,38 @@
+
+
+*******************************************************************************
+Thu Jun 13 10:48:34 2019
+
+
+FIT:    data read from 'ntc.dat' using 2:($1+273.15)
+        format = x:z
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: T(x)
+	T(x) = 1 / ( A + B*(log(x)) + C * (log(x)) ** 3)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B             C            
+   0 1.6137186590e+05   0.00e+00  8.28e+01    5.000000e-04   5.000000e-04   1.000000e-07
+   8 1.2916095297e+00  -1.68e-03  8.28e-05    9.304033e-04   1.681442e-04   1.793231e-07
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 1.29161
+rel. change during last iteration : -1.67847e-08
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.656153
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.430537
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 0.000930403      +/- 0.0001855    (19.94%)
+B               = 0.000168144      +/- 2.537e-05    (15.09%)
+C               = 1.79323e-07      +/- 6.785e-08    (37.84%)
+
+correlation matrix of the fit parameters:
+                A      B      C      
+A               1.000 
+B              -0.999  1.000 
+C               0.993 -0.997  1.000 
