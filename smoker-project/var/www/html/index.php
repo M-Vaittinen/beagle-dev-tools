@@ -11,6 +11,12 @@ echo date('Y-m-d H:i:s');
   </head>
   <body>
   <a href="control.php">Savustimen ohjaus</a><br><br>
+<?php
+  $forced = trim(file_get_contents('/forcevalue'));
+  if ($forced == 1) {
+	echo "<h1>VAROITUS! Savustimen tila pakotettu!</h1>";	
+}
+?>
   <h1>Savusta Mua</h1>
 <table>
 <tr>
