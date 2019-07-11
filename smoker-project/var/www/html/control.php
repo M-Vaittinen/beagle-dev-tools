@@ -78,7 +78,7 @@ echo '<td>';
 echo '<form action="'.htmlentities($_SERVER['PHP_SELF']).'" method="post">';
 echo '<input name="warming_state" type="hidden" value="'.$new_state.'">';
 echo '<input name="force_state" type="hidden" value="1">';
-echo '<button type="submit" name="action" value="add_to_cart">'.$new_state.'</button>';
+echo '<button type="submit" name="action" value="add_to_cart">'.$new_state_text.'</button>';
 echo '</form>';
 echo '</td>';
 ?>
