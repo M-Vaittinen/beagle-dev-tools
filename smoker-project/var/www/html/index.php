@@ -16,7 +16,7 @@ echo date('Y-m-d H:i:s');
 <tr>
 <td>
 <?php
-	$target_temp = trim(file_get_contents('/target_temp'));
+	$target_temp = trim(file_get_contents('/target_temp.txt'));
 	echo "Savustimen tavoitelämpö $target_temp";
 ?>
 </td>

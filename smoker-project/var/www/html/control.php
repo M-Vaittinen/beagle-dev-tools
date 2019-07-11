@@ -13,12 +13,12 @@
 	if(isset($_POST['target_temp'])){
 		$new_target = $_POST['target_temp'];
 		if (ctype_digit($new_target))
-			file_put_contents("/target_temp", $new_target);
+			file_put_contents("/target_temp.txt", $new_target);
 		else
 			echo "<h3>Invalid value ($new_target) for temperature</h3>";
 	}
 
-	$target_temp = trim(file_get_contents('/target_temp'));
+	$target_temp = trim(file_get_contents('/target_temp.txt'));
 	echo "Nykyinen tavoitelämpö $target_temp";
 ?>
   </td>
