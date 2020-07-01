@@ -73,12 +73,12 @@ int calc_coefficients(long double *R, long double *T, long double *A,
 	aterm100 = 100/T[0];
 //	aterm1 = 1/T[0];
 	aterm2 = *B*a;
-	aterm3 = *C*a;
+	aterm3 = *C*power(a,3);
 
 	printf("aterm100 = %Lf\n", aterm100);
 
 
-//	*A = 1/T[0] - *B*a - *C*a;
+//	*A = 1/T[0] - *B*a - *C*a^3;
 	*A = aterm100 - aterm2 - aterm3;
 
 	printf("aterm1 (100) = %Lf\n", aterm100);

@@ -15,11 +15,17 @@
 #C=3.975024984 e-7
 */
 
-
 #define FIXED_RES 10000.0
+
+/* 
 #define S_A 0.001322381786
 #define S_B 0.0001232997132
 #define S_C 0.0000003975024984
+*/
+
+#define S_A 0.0008897101882
+#define S_B 0.0001760898686
+#define S_C 0.0000001472455495
 
 int main(int argc, char * argv[])
 {
