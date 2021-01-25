@@ -73,12 +73,12 @@ int calc_coefficients(long double *R, long double *T, long double *A,
 	aterm100 = 100/T[0];
 //	aterm1 = 1/T[0];
 	aterm2 = *B*a;
-	aterm3 = *C*a;
+	aterm3 = *C*power(a,3);
 
 	printf("aterm100 = %Lf\n", aterm100);
 
 
-//	*A = 1/T[0] - *B*a - *C*a;
+//	*A = 1/T[0] - *B*a - *C*a^3;
 	*A = aterm100 - aterm2 - aterm3;
 
 	printf("aterm1 (100) = %Lf\n", aterm100);
@@ -86,10 +86,26 @@ int calc_coefficients(long double *R, long double *T, long double *A,
 	printf("aterm3 (100) = %Lf\n", aterm3);
 
 	printf("A100 = %Lf\n", *A);
-
+/*
 	*A /= 100;
 	*B /= 100;
 	*C /= 100;
+*/
+	return 0;
+}
+
+int write_coeff(char *fn, long double A, long double B, long double C)
+{
+	FILE *w;
+
+	w = fopen(fn, "w");
+	if (!w) {
+		perror("fopen\n");
+		return -1;
+	}
+
+	fprintf(w, "%.15Lf\n%.15Lf\n%.15Lf\n", A, B, C);
+	fclose(w);
 
 	return 0;
 }
@@ -99,8 +115,8 @@ int main(int argc, char *argv[])
 	FILE *r;
 	long double R[3], T[3], A, B, C;
 
-	if (argc != 2) {
-		printf("Need resistance - temperature value file\n");
+	if (argc != 3) {
+		printf("Need resistance - temperature value file and coeff output file\n");
 		return -1;
 	}
 	r = fopen(argv[1], "r");
@@ -111,12 +127,14 @@ int main(int argc, char *argv[])
 	if (read_values(r, R, T)) {
 		printf("Failed to get values - bad file format?\n");
 	}
+	fclose(r);
 
 	if (calc_coefficients(R, T, &A, &B, &C)) {
 		printf ("Failed to calc coefficients\n");
 		return -1;
 	}
 	printf("A=%.10Lf, B=%.10Lf, C=%.10Lf\n", A, B, C);
+	write_coeff(argv[2], A, B, C);
 
 	return 0;
 }
