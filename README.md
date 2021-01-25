@@ -1,7 +1,7 @@
 # beagle-dev-tools
 My development tools to develop linux drivers with BeagleBoneBlack
 
-### master branch
+## master branch
 
 Here dwells my generic development tools like rootfs, compiler, u-boot, DT-overlay merging module etc.
 
