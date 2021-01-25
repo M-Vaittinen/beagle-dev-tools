@@ -1,0 +1,106 @@
+SSR Relay:
+SSRF-240D25
+TE Connectivity / P&B SPST-NO 3-15VDC 25A  /  Solid State Relays - PCB Mount
+Mouser: 655-SSRF-240D25
+1 pcs
+
+MAX6675 sensor IF:
+MAX6675ISA+
+Maxim Integrated   /  Sensor Interface
+Mouser: 700-MAX6675ISA
+1 pcs
+
+Audio jack for meat thermometer:
+MJ-2509N
+CUI Devices Audio Jacks  /  Phone Connectors
+Mouser: 490-MJ-2509N
+1 pcs
+
+Schottky diode:
+SB260E-G
+Comchip Technology Low VF ESD 2A 60V  /  Schottky Diodes & Rectifiers
+Mouser: 750-SB260E-G
+1 pcs
+
+LED:
+TLLG4400-AS12
+Vishay Semiconductors Green; 1.2mcd; 3mm  /  Standard LEDs - Through Hole
+Mouser: 78-TLLG4400-AS12
+1 pcs
+
+Cable terminals:
+691102710002
+Wurth Elektronik   /  Fixed Terminal Blocks
+Mouser: 710-691102710002
+5 pcs
+
+Transistor:
+2N3904BU
+ON Semiconductor / Fairchild NPN Transistor  /  Bipolar Transistors - BJT
+Mouser: 512-2N3904BU
+1 pcs
+
+Capacitor 10uF
+FG11X7S1H106KRT06
+TDK RAD 50V 10uF  /  Multilayer Ceramic Capacitors MLCC - Leaded
+Mouser: 810-FG11X7S1H106KRT6
+1 pcs
+
+Capacitor 0.1uF
+FA16C0G2A104JRU06
+TDK 100V 0.10uF 5%  /  Multilayer Ceramic Capacitors MLCC - Leaded
+Mouser: 810-FA16C0G2A104JRU6
+3 pcs
+
+AC-power entry:
+15SRBX8-T
+TE Connectivity / Corcom 15A WIRE-LEADED  /  AC Power Entry Modules
+Mouser: 592-15SRBX8-T
+
+Fuse holder:
+0031.8201
+Schurter FUSE-HOLDER OGN  /  Fuse Holder
+Mouser: 693-0031.8201
+
+Fuse cover:
+0853.0551
+Schurter COVER OGN mAX 1.6  /  Fuse Holder Accessories
+Mouser: 693-0853.0551
+
+K-type thermocouple
+Something like: https://www.aliexpress.com/item/32831462143.html?spm=a2g0o.productlist.0.0.5dc12036NWWWAf&algo_pvid=ff456887-b14d-4882-bc77-3c395a5788e7&algo_expid=ff456887-b14d-4882-bc77-3c395a5788e7-0&btsid=0b0a555a16115703387292888ed0e3&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+1 pcs
+
+Pin headers for BBB connectors 8 and 9.
+(I just used ordinary dual pin headers which I cut to correct length)
+2 pcs
+
+Resistor
+1Kohm
+2pcs
+
+Resistor
+10Kohm
+1pcs
+
+Meat temperature probe:
+NTC type meat temperature probe with 3.5mm jack.
+NOTE: current schema/gerber connects the probe to high side of voltage divider,
+thus the cord/probe must not be connected to ground pole of connector. This
+is a nasty issue because most of the probes are. (You can test this by
+multimeter - just try with beeber setting if cord/probe are connected to tip or
+sleeve of the jack. If yes, then the probe does not suit with the current
+schema/code. I have only managed to get one probe which suits this use and
+unfortunately I don't remember where I bought it :(
+1 pcs
+
+LED display:
+tm1637
+(bought mine from aliexpress)
+
+Blastic box for casing.
+1 pcs
+
+Electric smoker :)
+1 pcs
+
