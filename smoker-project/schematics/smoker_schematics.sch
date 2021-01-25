@@ -1,0 +1,803 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L power:GNDD #PWR01
+U 1 1 5589785A
+P 2450 3550
+F 0 "#PWR01" H 2450 3300 50  0001 C CNN
+F 1 "GNDD" H 2450 3400 50  0000 C CNN
+F 2 "" H 2450 3550 60  0000 C CNN
+F 3 "" H 2450 3550 60  0000 C CNN
+	1    2450 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 3250 2850 3250
+Wire Wire Line
+	2850 3250 2850 3350
+Wire Wire Line
+	2850 3500 2450 3500
+Wire Wire Line
+	2050 3500 2050 3350
+Wire Wire Line
+	2050 3250 2200 3250
+Wire Wire Line
+	2200 3350 2050 3350
+Connection ~ 2050 3350
+Wire Wire Line
+	2700 3350 2850 3350
+Connection ~ 2850 3350
+Wire Wire Line
+	2450 3550 2450 3500
+Connection ~ 2450 3500
+$Comp
+L power:GNDD #PWR02
+U 1 1 558978D3
+P 3500 1150
+F 0 "#PWR02" H 3500 900 50  0001 C CNN
+F 1 "GNDD" H 3500 1000 50  0000 C CNN
+F 2 "" H 3500 1150 60  0000 C CNN
+F 3 "" H 3500 1150 60  0000 C CNN
+	1    3500 1150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GNDD #PWR03
+U 1 1 5589790A
+P 1400 1150
+F 0 "#PWR03" H 1400 900 50  0001 C CNN
+F 1 "GNDD" H 1400 1000 50  0000 C CNN
+F 2 "" H 1400 1150 60  0000 C CNN
+F 3 "" H 1400 1150 60  0000 C CNN
+	1    1400 1150
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GNDD #PWR04
+U 1 1 558979C1
+P 4650 1150
+F 0 "#PWR04" H 4650 900 50  0001 C CNN
+F 1 "GNDD" H 4650 1000 50  0000 C CNN
+F 2 "" H 4650 1150 60  0000 C CNN
+F 3 "" H 4650 1150 60  0000 C CNN
+	1    4650 1150
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GNDD #PWR05
+U 1 1 558979E8
+P 5650 1150
+F 0 "#PWR05" H 5650 900 50  0001 C CNN
+F 1 "GNDD" H 5650 1000 50  0000 C CNN
+F 2 "" H 5650 1150 60  0000 C CNN
+F 3 "" H 5650 1150 60  0000 C CNN
+	1    5650 1150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+3.3V #PWR06
+U 1 1 55897A67
+P 2850 950
+F 0 "#PWR06" H 2850 800 50  0001 C CNN
+F 1 "+3V3" H 2850 1090 50  0000 C CNN
+F 2 "" H 2850 950 60  0000 C CNN
+F 3 "" H 2850 950 60  0000 C CNN
+	1    2850 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR07
+U 1 1 55897A7F
+P 3050 950
+F 0 "#PWR07" H 3050 800 50  0001 C CNN
+F 1 "+5V" H 3050 1090 50  0000 C CNN
+F 2 "" H 3050 950 60  0000 C CNN
+F 3 "" H 3050 950 60  0000 C CNN
+	1    3050 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 1250 2850 1250
+Wire Wire Line
+	2850 1250 2850 950 
+Wire Wire Line
+	2700 1350 3050 1350
+Wire Wire Line
+	3050 1350 3050 950 
+Wire Wire Line
+	3300 950  3300 1450
+Wire Wire Line
+	3300 1450 2700 1450
+$Comp
+L power:+3.3V #PWR08
+U 1 1 55897EE7
+P 2050 950
+F 0 "#PWR08" H 2050 800 50  0001 C CNN
+F 1 "+3V3" H 2050 1090 50  0000 C CNN
+F 2 "" H 2050 950 60  0000 C CNN
+F 3 "" H 2050 950 60  0000 C CNN
+	1    2050 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR09
+U 1 1 55897EF8
+P 1850 950
+F 0 "#PWR09" H 1850 800 50  0001 C CNN
+F 1 "+5V" H 1850 1090 50  0000 C CNN
+F 2 "" H 1850 950 60  0000 C CNN
+F 3 "" H 1850 950 60  0000 C CNN
+	1    1850 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2200 1250 2050 1250
+Wire Wire Line
+	2050 1250 2050 950 
+Wire Wire Line
+	2200 1350 1850 1350
+Wire Wire Line
+	1850 1350 1850 950 
+Wire Wire Line
+	2200 1450 1600 1450
+Wire Wire Line
+	1600 1450 1600 950 
+Wire Wire Line
+	2700 1150 3500 1150
+Wire Wire Line
+	2200 1150 1400 1150
+Wire Wire Line
+	4650 1150 4900 1150
+Wire Wire Line
+	5400 1150 5650 1150
+$Comp
+L pwr_BeagleBone:SYS_5V #PWR010
+U 1 1 55898497
+P 3300 950
+F 0 "#PWR010" H 3300 800 50  0001 C CNN
+F 1 "SYS_5V" H 3300 1090 50  0000 C CNN
+F 2 "" H 3300 950 60  0000 C CNN
+F 3 "" H 3300 950 60  0000 C CNN
+	1    3300 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L pwr_BeagleBone:SYS_5V #PWR011
+U 1 1 558984AF
+P 1600 950
+F 0 "#PWR011" H 1600 800 50  0001 C CNN
+F 1 "SYS_5V" H 1600 1090 50  0000 C CNN
+F 2 "" H 1600 950 60  0000 C CNN
+F 3 "" H 1600 950 60  0000 C CNN
+	1    1600 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L pwr_BeagleBone:GNDA_ADC #PWR013
+U 1 1 5589865D
+P 3050 2750
+F 0 "#PWR013" H 3050 2500 50  0001 C CNN
+F 1 "GNDA_ADC" H 3050 2600 50  0000 C CNN
+F 2 "" H 3050 2750 60  0000 C CNN
+F 3 "" H 3050 2750 60  0000 C CNN
+	1    3050 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2700 2750 3050 2750
+Text GLabel 2800 1550 2    50   Input ~ 0
+SYS_RESETN
+Wire Wire Line
+	2700 1550 2800 1550
+Text GLabel 2100 1550 0    50   Input ~ 0
+PWR_BUT
+Wire Wire Line
+	2200 1550 2100 1550
+$Comp
+L Connector_Generic:Conn_02x23_Odd_Even P9
+U 1 1 55DF7DBA
+P 2400 2250
+F 0 "P9" H 2400 3450 50  0000 C CNN
+F 1 "BeagleBone_Black_Header" V 2450 2300 50  0000 C CNN
+F 2 "Socket_BeagleBone_Black:Socket_BeagleBone_Black" H 2400 1400 60  0001 C CNN
+F 3 "" H 2400 1400 60  0000 C CNN
+	1    2400 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x23_Odd_Even P8
+U 1 1 55DF7DE1
+P 5100 2250
+F 0 "P8" H 5100 3450 50  0000 C CNN
+F 1 "BeagleBone_Black_Header" V 5150 2300 50  0000 C CNN
+F 2 "Socket_BeagleBone_Black:Socket_BeagleBone_Black" H 5100 1400 60  0001 C CNN
+F 3 "" H 5100 1400 60  0000 C CNN
+	1    5100 2250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2050 3350 2050 3250
+Wire Wire Line
+	2850 3350 2850 3500
+Wire Wire Line
+	2450 3500 2050 3500
+$Comp
+L spark-fun:MAX6675 U1
+U 1 1 5ED8FD0B
+P 2500 4900
+F 0 "U1" H 2500 5465 50  0000 C CNN
+F 1 "MAX6675" H 2500 5374 50  0000 C CNN
+F 2 "spark-fun:SOIC8" H 2530 5050 20  0001 C CNN
+F 3 "" H 2500 4900 50  0001 C CNN
+	1    2500 4900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 2450 3550 2450
+$Comp
+L pwr_BeagleBone:VDD_ADC #PWR012
+U 1 1 558985D8
+P 3050 2150
+F 0 "#PWR012" H 3050 2000 50  0001 C CNN
+F 1 "VDD_ADC" H 3050 2290 50  0000 C CNN
+F 2 "" H 3050 2150 60  0000 C CNN
+F 3 "" H 3050 2150 60  0000 C CNN
+	1    3050 2150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 2650 3050 2650
+Wire Wire Line
+	3050 2150 3050 2650
+Wire Wire Line
+	2200 2550 1850 2550
+$Comp
+L power:GNDD #PWR014
+U 1 1 5EEC501A
+P 1700 4900
+F 0 "#PWR014" H 1700 4650 50  0001 C CNN
+F 1 "GNDD" H 1700 4750 50  0000 C CNN
+F 2 "" H 1700 4900 60  0000 C CNN
+F 3 "" H 1700 4900 60  0000 C CNN
+	1    1700 4900
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1700 4900 1850 4900
+Wire Wire Line
+	2000 4600 1850 4600
+Wire Wire Line
+	1550 4600 1550 4400
+Wire Wire Line
+	1850 4650 1850 4600
+Connection ~ 1850 4600
+Wire Wire Line
+	1850 4600 1550 4600
+Wire Wire Line
+	1850 4850 1850 4900
+Connection ~ 1850 4900
+Wire Wire Line
+	1850 4900 2000 4900
+Text Label 3550 2450 0    50   ~ 0
+SPI1_CS
+Wire Wire Line
+	3000 5200 3600 5200
+Wire Wire Line
+	3000 5100 3600 5100
+Text Label 1850 2550 0    50   ~ 0
+SPI1_SO
+Wire Wire Line
+	1850 2650 2200 2650
+Text Label 1850 2650 0    50   ~ 0
+SPI1_SCK
+Wire Wire Line
+	3000 5000 3600 5000
+Text Label 1550 4400 0    50   ~ 0
++5V
+$Comp
+L connector2:691102710002 J1
+U 1 1 5ECA8791
+P 900 5200
+F 0 "J1" V 1117 5093 50  0000 C CNN
+F 1 "691102710002" V 1026 5093 50  0000 C CNN
+F 2 "connectors:691102710002" H 900 5200 50  0001 L BNN
+F 3 "5mm" H 900 5200 50  0001 L BNN
+F 4 "2" H 900 5200 50  0001 L BNN "Field4"
+F 5 "250V(AC)" H 900 5200 50  0001 L BNN "Field5"
+F 6 "Horizontal" H 900 5200 50  0001 L BNN "Field6"
+F 7 "https://www.we-online.com/catalog/datasheet/691102710002.pdf" H 900 5200 50  0001 L BNN "Field7"
+F 8 "THT" H 900 5200 50  0001 L BNN "Field8"
+F 9 "691102710002" H 900 5200 50  0001 L BNN "Field9"
+F 10 "22 to 14 (AWG) 0.326 to 2.08 (mm²)" H 900 5200 50  0001 L BNN "Field10"
+F 11 "15A" H 900 5200 50  0001 L BNN "Field11"
+F 12 "17.5A" H 900 5200 50  0001 L BNN "Field12"
+F 13 "300V(AC)" H 900 5200 50  0001 L BNN "Field13"
+	1    900  5200
+	0    -1   1    0   
+$EndComp
+Wire Wire Line
+	10050 3750 10050 4600
+Wire Wire Line
+	5400 2350 5650 2350
+Text GLabel 5650 2350 2    50   Output ~ 0
+GPIO1_29
+Wire Wire Line
+	8450 4450 8450 3150
+Text GLabel 6800 3150 0    50   Input ~ 0
+SYS_5V
+$Comp
+L Device:R R1
+U 1 1 5ED47A4B
+P 7000 4850
+F 0 "R1" V 6793 4850 50  0000 C CNN
+F 1 "1K" V 6884 4850 50  0000 C CNN
+F 2 "Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical" V 6930 4850 50  0001 C CNN
+F 3 "~" H 7000 4850 50  0001 C CNN
+	1    7000 4850
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6850 4850 6500 4850
+Text GLabel 6500 4850 0    50   Input ~ 0
+GPIO1_29
+$Comp
+L Transistor_BJT:2N3904 Q1
+U 1 1 5EDBC366
+P 7550 4850
+F 0 "Q1" H 7740 4896 50  0000 L CNN
+F 1 "2N3904" H 7740 4805 50  0000 L CNN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline" H 7750 4775 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 7550 4850 50  0001 L CNN
+	1    7550 4850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7150 4850 7350 4850
+$Comp
+L power:GNDD #PWR016
+U 1 1 5EDCCA16
+P 7650 5300
+F 0 "#PWR016" H 7650 5050 50  0001 C CNN
+F 1 "GNDD" H 7650 5150 50  0000 C CNN
+F 2 "" H 7650 5300 60  0000 C CNN
+F 3 "" H 7650 5300 60  0000 C CNN
+	1    7650 5300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7650 5300 7650 5050
+Wire Wire Line
+	7650 4550 8100 4550
+$Comp
+L Device:R R2
+U 1 1 5EDD7C1E
+P 7650 3650
+F 0 "R2" H 7580 3604 50  0000 R CNN
+F 1 "1K" H 7580 3695 50  0000 R CNN
+F 2 "Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical" V 7580 3650 50  0001 C CNN
+F 3 "~" H 7650 3650 50  0001 C CNN
+	1    7650 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED D1
+U 1 1 5EDD9E6A
+P 7650 4150
+F 0 "D1" V 7689 4033 50  0000 R CNN
+F 1 "TLLG4400-AS12" V 7598 4033 50  0000 R CNN
+F 2 "LED_THT:LED_D3.0mm" H 7650 4150 50  0001 C CNN
+F 3 "~" H 7650 4150 50  0001 C CNN
+	1    7650 4150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7650 4300 7650 4550
+Connection ~ 7650 4550
+Wire Wire Line
+	7650 4550 7650 4650
+Wire Wire Line
+	7650 4000 7650 3800
+Wire Wire Line
+	6800 3150 7050 3150
+$Comp
+L Diode:B260 D2
+U 1 1 5ECF2C1E
+P 8100 3900
+F 0 "D2" V 8054 3979 50  0000 L CNN
+F 1 "SB260E-G" V 8145 3979 50  0000 L CNN
+F 2 "Diodes_THT:D_DO-15_P10.16mm_Horizontal" H 8100 3725 50  0001 C CNN
+F 3 "http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf" H 8100 3900 50  0001 C CNN
+	1    8100 3900
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	8100 4550 8100 4050
+Connection ~ 8100 4550
+Wire Wire Line
+	8100 3750 8100 3150
+Connection ~ 8100 3150
+Wire Wire Line
+	8100 3150 8450 3150
+Wire Wire Line
+	7650 3500 7650 3150
+Connection ~ 7650 3150
+Wire Wire Line
+	7650 3150 8100 3150
+Wire Wire Line
+	6850 3350 7050 3350
+Wire Wire Line
+	7250 3550 7050 3550
+Wire Wire Line
+	7050 3350 7050 3150
+Connection ~ 7050 3350
+Wire Wire Line
+	7050 3350 7250 3350
+Connection ~ 7050 3150
+Wire Wire Line
+	7050 3150 7650 3150
+$Comp
+L power:GNDD #PWR015
+U 1 1 5ED15EAE
+P 7050 3700
+F 0 "#PWR015" H 7050 3450 50  0001 C CNN
+F 1 "GNDD" H 7050 3550 50  0000 C CNN
+F 2 "" H 7050 3700 60  0000 C CNN
+F 3 "" H 7050 3700 60  0000 C CNN
+	1    7050 3700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7050 3700 7050 3550
+Connection ~ 7050 3550
+Wire Wire Line
+	7050 3550 6850 3550
+$Comp
+L Device:R R3
+U 1 1 5ED465FB
+P 8950 2150
+F 0 "R3" H 8880 2104 50  0000 R CNN
+F 1 "10K" H 8880 2195 50  0000 R CNN
+F 2 "Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical" V 8880 2150 50  0001 C CNN
+F 3 "~" H 8950 2150 50  0001 C CNN
+	1    8950 2150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8950 2650 8950 2300
+Connection ~ 8950 2000
+Wire Wire Line
+	8950 2000 8650 2000
+Text GLabel 8350 2650 0    50   Input ~ 0
+GNDA_ADC
+Text GLabel 8550 1200 0    50   Input ~ 0
+VDD_ADC
+Wire Wire Line
+	2200 3050 1800 3050
+Text GLabel 1800 3050 0    50   Input ~ 0
+AIN0
+Text GLabel 8500 2000 0    50   Output ~ 0
+AIN0
+$Comp
+L Device:C_Small C4
+U 1 1 5EDD05B3
+P 8650 2250
+F 0 "C4" H 8742 2296 50  0000 L CNN
+F 1 "0.1uF" H 8742 2205 50  0000 L CNN
+F 2 "capacitors:C_Disc_D3.8mm_W2.6mm_P2.50mm" H 8650 2250 50  0001 C CNN
+F 3 "~" H 8650 2250 50  0001 C CNN
+	1    8650 2250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8950 2650 8650 2650
+Wire Wire Line
+	8650 2350 8650 2650
+Connection ~ 8650 2650
+Wire Wire Line
+	8650 2650 8350 2650
+Wire Wire Line
+	8650 2150 8650 2000
+Connection ~ 8650 2000
+Wire Wire Line
+	8650 2000 8500 2000
+$Comp
+L SSRF_oikea:SSRF-240D25 K1
+U 1 1 5EE14294
+P 8750 4550
+F 0 "K1" H 9242 3985 50  0000 C CNN
+F 1 "SSRF-240D25" H 9242 4076 50  0000 C CNN
+F 2 "SSRF-240D25:SSRF240D25" H 9800 4650 50  0001 L CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=8-1773454-3_SSRF_Data_Sheet&DocType=CS&DocLang=English" H 9800 4550 50  0001 L CNN
+F 4 "Solid State Relays - PCB Mount SPST-NO 3-15VDC 25A SS RELAY" H 9800 4450 50  0001 L CNN "Description"
+F 5 "35.6" H 9800 4350 50  0001 L CNN "Height"
+F 6 "TE Connectivity" H 9800 4250 50  0001 L CNN "Manufacturer_Name"
+F 7 "SSRF-240D25" H 9800 4150 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "655-SSRF-240D25" H 9800 4050 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/SSRF-240D25?qs=g%252BEszo6zu8MEBlQ4YPOQrQ%3D%3D" H 9800 3950 50  0001 L CNN "Mouser Price/Stock"
+F 10 "" H 9800 3850 50  0001 L CNN "RS Part Number"
+F 11 "" H 9800 3750 50  0001 L CNN "RS Price/Stock"
+	1    8750 4550
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	8100 4550 8750 4550
+Wire Wire Line
+	8750 4450 8450 4450
+Wire Wire Line
+	10050 3750 8750 3750
+Wire Wire Line
+	8750 3750 8750 4250
+Wire Wire Line
+	8750 4350 8650 4350
+Wire Wire Line
+	8650 4350 8650 3650
+Wire Wire Line
+	8650 3650 10250 3650
+Text Notes 8300 1000 0    50   ~ 0
+Meat temp - 2.5mm jack R varies roughly from 5000 - 500000 Ohm
+$Comp
+L connector2:691102710002 J3
+U 1 1 5ED6CA05
+P 10450 3750
+F 0 "J3" V 10667 3643 50  0000 C CNN
+F 1 "691102710002" V 10576 3643 50  0000 C CNN
+F 2 "connectors:691102710002" H 10450 3750 50  0001 L BNN
+F 3 "5mm" H 10450 3750 50  0001 L BNN
+F 4 "2" H 10450 3750 50  0001 L BNN "Field4"
+F 5 "250V(AC)" H 10450 3750 50  0001 L BNN "Field5"
+F 6 "Horizontal" H 10450 3750 50  0001 L BNN "Field6"
+F 7 "https://www.we-online.com/catalog/datasheet/691102710002.pdf" H 10450 3750 50  0001 L BNN "Field7"
+F 8 "THT" H 10450 3750 50  0001 L BNN "Field8"
+F 9 "691102710002" H 10450 3750 50  0001 L BNN "Field9"
+F 10 "22 to 14 (AWG) 0.326 to 2.08 (mm²)" H 10450 3750 50  0001 L BNN "Field10"
+F 11 "15A" H 10450 3750 50  0001 L BNN "Field11"
+F 12 "17.5A" H 10450 3750 50  0001 L BNN "Field12"
+F 13 "300V(AC)" H 10450 3750 50  0001 L BNN "Field13"
+	1    10450 3750
+	0    1    1    0   
+$EndComp
+$Comp
+L connector2:691102710002 J4
+U 1 1 5ED73870
+P 11000 4500
+F 0 "J4" V 11217 4393 50  0000 C CNN
+F 1 "691102710002" V 11126 4393 50  0000 C CNN
+F 2 "connectors:691102710002" H 11000 4500 50  0001 L BNN
+F 3 "5mm" H 11000 4500 50  0001 L BNN
+F 4 "2" H 11000 4500 50  0001 L BNN "Field4"
+F 5 "250V(AC)" H 11000 4500 50  0001 L BNN "Field5"
+F 6 "Horizontal" H 11000 4500 50  0001 L BNN "Field6"
+F 7 "https://www.we-online.com/catalog/datasheet/691102710002.pdf" H 11000 4500 50  0001 L BNN "Field7"
+F 8 "THT" H 11000 4500 50  0001 L BNN "Field8"
+F 9 "691102710002" H 11000 4500 50  0001 L BNN "Field9"
+F 10 "22 to 14 (AWG) 0.326 to 2.08 (mm²)" H 11000 4500 50  0001 L BNN "Field10"
+F 11 "15A" H 11000 4500 50  0001 L BNN "Field11"
+F 12 "17.5A" H 11000 4500 50  0001 L BNN "Field12"
+F 13 "300V(AC)" H 11000 4500 50  0001 L BNN "Field13"
+	1    11000 4500
+	0    1    -1   0   
+$EndComp
+Text Notes 11000 3950 1    50   ~ 0
+MAINS 240V
+Text Label 1050 5150 0    50   ~ 0
+NTC-
+Text Label 1000 5300 0    50   ~ 0
+NTC+
+$Comp
+L connector2:691102710002 J5
+U 1 1 5F0090E1
+P 4800 4250
+F 0 "J5" V 5017 4143 50  0000 C CNN
+F 1 "691102710002" V 4926 4143 50  0000 C CNN
+F 2 "connectors:691102710002" H 4800 4250 50  0001 L BNN
+F 3 "5mm" H 4800 4250 50  0001 L BNN
+F 4 "2" H 4800 4250 50  0001 L BNN "Field4"
+F 5 "250V(AC)" H 4800 4250 50  0001 L BNN "Field5"
+F 6 "Horizontal" H 4800 4250 50  0001 L BNN "Field6"
+F 7 "https://www.we-online.com/catalog/datasheet/691102710002.pdf" H 4800 4250 50  0001 L BNN "Field7"
+F 8 "THT" H 4800 4250 50  0001 L BNN "Field8"
+F 9 "691102710002" H 4800 4250 50  0001 L BNN "Field9"
+F 10 "22 to 14 (AWG) 0.326 to 2.08 (mm²)" H 4800 4250 50  0001 L BNN "Field10"
+F 11 "15A" H 4800 4250 50  0001 L BNN "Field11"
+F 12 "17.5A" H 4800 4250 50  0001 L BNN "Field12"
+F 13 "300V(AC)" H 4800 4250 50  0001 L BNN "Field13"
+	1    4800 4250
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4600 4150 4100 4150
+Wire Wire Line
+	4600 4250 4100 4250
+Text GLabel 4100 4150 0    50   Input ~ 0
++5V
+$Comp
+L power:GNDD #PWR017
+U 1 1 5F030B55
+P 4100 4250
+F 0 "#PWR017" H 4100 4000 50  0001 C CNN
+F 1 "GNDD" H 4100 4100 50  0000 C CNN
+F 2 "" H 4100 4250 60  0000 C CNN
+F 3 "" H 4100 4250 60  0000 C CNN
+	1    4100 4250
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	10050 4600 10400 4600
+Wire Wire Line
+	10800 4500 10550 4500
+Wire Wire Line
+	10150 4500 10150 3750
+Wire Wire Line
+	10150 3750 10250 3750
+Connection ~ 10150 4500
+Connection ~ 10050 4600
+Text Notes 10550 3700 0    50   ~ 0
+AC OUT
+Text Notes 10950 4950 0    50   ~ 0
+AC IN
+Text Notes 10050 5650 0    50   ~ 0
+AC BBB
+$Comp
+L Device:C_Small C3
+U 1 1 5ED05144
+P 7250 3450
+F 0 "C3" H 7342 3496 50  0000 L CNN
+F 1 "0.1uF" H 7342 3405 50  0000 L CNN
+F 2 "capacitors:C_Disc_D3.8mm_W2.6mm_P2.50mm" H 7250 3450 50  0001 C CNN
+F 3 "~" H 7250 3450 50  0001 C CNN
+	1    7250 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C2
+U 1 1 5ED05916
+P 6850 3450
+F 0 "C2" H 6942 3496 50  0000 L CNN
+F 1 "10uF" H 6942 3405 50  0000 L CNN
+F 2 "capacitors:C_Disc_D3.8mm_W2.6mm_P2.50mm" H 6850 3450 50  0001 C CNN
+F 3 "~" H 6850 3450 50  0001 C CNN
+	1    6850 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C1
+U 1 1 5EF25044
+P 1850 4750
+F 0 "C1" H 1942 4796 50  0000 L CNN
+F 1 "0.1uF" H 1942 4705 50  0000 L CNN
+F 2 "capacitors:C_Disc_D3.8mm_W2.6mm_P2.50mm" H 1850 4750 50  0001 C CNN
+F 3 "~" H 1850 4750 50  0001 C CNN
+	1    1850 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L audio2:MJ-2509N J2
+U 1 1 5F1E82F3
+P 9900 1600
+F 0 "J2" H 9570 1554 50  0000 R CNN
+F 1 "MJ-2509N" H 9570 1645 50  0000 R CNN
+F 2 "CUI_MJ-2509N" H 9900 1600 50  0001 L BNN
+F 3 "CUI INC" H 9900 1600 50  0001 L BNN
+F 4 "MANUFACTURER RECOMMENDATIONS" H 9900 1600 50  0001 L BNN "Field4"
+F 5 "1.01" H 9900 1600 50  0001 L BNN "Field5"
+	1    9900 1600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9400 1500 9400 1200
+Wire Wire Line
+	9400 1200 8550 1200
+Wire Wire Line
+	9400 2000 8950 2000
+Wire Wire Line
+	9500 1500 9400 1500
+Wire Wire Line
+	9400 1600 9500 1600
+Wire Wire Line
+	9400 1600 9400 2000
+$Comp
+L fuse:0031.8201 J8
+U 1 1 5ED60631
+P 10500 4600
+F 0 "J8" V 10746 4728 50  0000 L CNN
+F 1 "0031.8201" V 10837 4728 50  0000 L CNN
+F 2 "0031.8201" H 11150 4700 50  0001 L CNN
+F 3 "http://www.schurter.com.hk/var/schurter/storage/ilcatalogue/files/document/datasheet/en/pdf/typ_OGN.pdf" H 11150 4600 50  0001 L CNN
+F 4 "Fuse Holder FUSE-HOLDER OGN" H 11150 4500 50  0001 L CNN "Description"
+F 5 "" H 11150 4400 50  0001 L CNN "Height"
+F 6 "SCHURTER" H 11150 4300 50  0001 L CNN "Manufacturer_Name"
+F 7 "0031.8201" H 11150 4200 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "0031.8201" H 11150 4100 50  0001 L CNN "Arrow Part Number"
+F 9 "https://www.arrow.com/en/products/0031.8201/schurter" H 11150 4000 50  0001 L CNN "Arrow Price/Stock"
+F 10 "693-0031.8201" H 11150 3900 50  0001 L CNN "Mouser Part Number"
+F 11 "https://www.mouser.co.uk/ProductDetail/Schurter/00318201?qs=A0AD9A9uYPZ%2F5Y96FqMyAQ%3D%3D" H 11150 3800 50  0001 L CNN "Mouser Price/Stock"
+	1    10500 4600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	10050 4600 10050 5300
+Wire Wire Line
+	10150 4500 10150 5300
+$Comp
+L connector2:691102710002 J6
+U 1 1 5F0877E0
+P 10150 5500
+F 0 "J6" V 10367 5393 50  0000 C CNN
+F 1 "691102710002" V 10276 5393 50  0000 C CNN
+F 2 "connectors:691102710002" H 10150 5500 50  0001 L BNN
+F 3 "5mm" H 10150 5500 50  0001 L BNN
+F 4 "2" H 10150 5500 50  0001 L BNN "Field4"
+F 5 "250V(AC)" H 10150 5500 50  0001 L BNN "Field5"
+F 6 "Horizontal" H 10150 5500 50  0001 L BNN "Field6"
+F 7 "https://www.we-online.com/catalog/datasheet/691102710002.pdf" H 10150 5500 50  0001 L BNN "Field7"
+F 8 "THT" H 10150 5500 50  0001 L BNN "Field8"
+F 9 "691102710002" H 10150 5500 50  0001 L BNN "Field9"
+F 10 "22 to 14 (AWG) 0.326 to 2.08 (mm²)" H 10150 5500 50  0001 L BNN "Field10"
+F 11 "15A" H 10150 5500 50  0001 L BNN "Field11"
+F 12 "17.5A" H 10150 5500 50  0001 L BNN "Field12"
+F 13 "300V(AC)" H 10150 5500 50  0001 L BNN "Field13"
+	1    10150 5500
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	10500 4600 10800 4600
+$Comp
+L fuse:0031.8201 J7
+U 1 1 5EE1447C
+P 10450 4500
+F 0 "J7" V 10788 4272 50  0000 R CNN
+F 1 "0031.8201" V 10697 4272 50  0000 R CNN
+F 2 "0031.8201" H 11100 4600 50  0001 L CNN
+F 3 "http://www.schurter.com.hk/var/schurter/storage/ilcatalogue/files/document/datasheet/en/pdf/typ_OGN.pdf" H 11100 4500 50  0001 L CNN
+F 4 "Fuse Holder FUSE-HOLDER OGN" H 11100 4400 50  0001 L CNN "Description"
+F 5 "" H 11100 4300 50  0001 L CNN "Height"
+F 6 "SCHURTER" H 11100 4200 50  0001 L CNN "Manufacturer_Name"
+F 7 "0031.8201" H 11100 4100 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "0031.8201" H 11100 4000 50  0001 L CNN "Arrow Part Number"
+F 9 "https://www.arrow.com/en/products/0031.8201/schurter" H 11100 3900 50  0001 L CNN "Arrow Price/Stock"
+F 10 "693-0031.8201" H 11100 3800 50  0001 L CNN "Mouser Part Number"
+F 11 "https://www.mouser.co.uk/ProductDetail/Schurter/00318201?qs=A0AD9A9uYPZ%2F5Y96FqMyAQ%3D%3D" H 11100 3700 50  0001 L CNN "Mouser Price/Stock"
+	1    10450 4500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10450 4500 10150 4500
+Wire Wire Line
+	1100 5100 2000 5100
+Wire Wire Line
+	1100 5200 2000 5200
+Wire Wire Line
+	2200 1950 1850 1950
+Wire Wire Line
+	2700 2150 3050 2150
+Connection ~ 3050 2150
+Wire Wire Line
+	3050 2150 3550 2150
+Text GLabel 3550 2150 2    50   Output ~ 0
+SPI0_SCK
+Text GLabel 1850 1950 0    50   Output ~ 0
+SPI0_CS0
+Wire Wire Line
+	2200 2150 1850 2150
+Text GLabel 1850 2150 0    50   Input ~ 0
+SPI0_SO
+Text GLabel 3600 5200 2    50   Input ~ 0
+SPI0_CS0
+Text GLabel 3600 5100 2    50   Output ~ 0
+SPI0_SO
+Text GLabel 3600 5000 2    50   Input ~ 0
+SPI0_SCK
+$EndSCHEMATC
