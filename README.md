@@ -21,4 +21,18 @@ getting this repository up-to-date and oranized. This will take a while though.
 Feel free to drop me a note at mazziesaccount@gmail.com if you find this
 interesting :)
 
+
+## BBB SW requirements not in this repository:
+
+Network connection.
+ - You need to figure out a way to connect your BBB to WIFI when it boots.
+
+Web interface:
+ - Web server + php. (AFAIR I installed httpd and php from beagle apt repositories)
+ 
+Plotting temperatures.
+  - gnuplot. (AFAIR I installed gnuplot from beagle apt repositories)
+
+I should some day revise the software and also add commands to install them...
+
 --Matti
