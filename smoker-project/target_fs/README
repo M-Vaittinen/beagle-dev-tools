@@ -1,0 +1,13 @@
+This directory contains scrpts/binaries copied from my BBB's back-up filesystem.
+
+Note - this does (probably) not contain C or dts sources. Just scripts and
+binaries.
+
+Note - network setup scripts are not included. How to connect to your
+WLAN is up to you.
+
+Oh - I did also attempt using hostapd to add a hotspot by the BBB and by
+just connecting a device to this AP. (I even used dnsmasq to add domain name
+for the BBB). Unfortunately many devices (phones) were too smart. They attempted to reach some server(s) and decided the AP connection was not working as it should && dropped the connection. If someone has the time to create reliably working hotspot - I am interested in merging that solution to here :]
+
+
