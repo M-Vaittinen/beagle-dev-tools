@@ -11,6 +11,10 @@ WIFI network.
 Some documentation:
 https://raw.githubusercontent.com/M-Vaittinen/beagle-dev-tools/bbq-smoker/smoker-project/doc/smoker_doc.pdf
 
+PCB Schematics:
+(NOTE issue with meat temperature measurement)
+https://raw.githubusercontent.com/M-Vaittinen/beagle-dev-tools/bbq-smoker/smoker-project/schematics/smoker_schematics.pdf
+
 Please note. I haven't uploaded complete control SW for BBB. I will try to work
 getting this repository up-to-date and oranized. This will take a while though.
 
