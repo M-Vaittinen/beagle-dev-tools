@@ -1,0 +1,3404 @@
+#ADC val 351
+Meat Temperature  27.404054, cycle 1
+#ADC val 349
+Meat Temperature  27.283369, cycle 2
+#ADC val 351
+Meat Temperature  27.404054, cycle 3
+#ADC val 349
+Meat Temperature  27.283369, cycle 4
+#ADC val 349
+Meat Temperature  27.283369, cycle 5
+#ADC val 350
+Meat Temperature  27.343773, cycle 6
+#ADC val 350
+Meat Temperature  27.343773, cycle 7
+#ADC val 349
+Meat Temperature  27.283369, cycle 8
+#ADC val 352
+Meat Temperature  27.464214, cycle 9
+#ADC val 349
+Meat Temperature  27.283369, cycle 10
+#ADC val 351
+Meat Temperature  27.404054, cycle 11
+#ADC val 350
+Meat Temperature  27.343773, cycle 12
+#ADC val 351
+Meat Temperature  27.404054, cycle 13
+#ADC val 351
+Meat Temperature  27.404054, cycle 14
+#ADC val 349
+Meat Temperature  27.283369, cycle 15
+#ADC val 351
+Meat Temperature  27.404054, cycle 16
+#ADC val 350
+Meat Temperature  27.343773, cycle 17
+#ADC val 350
+Meat Temperature  27.343773, cycle 18
+#ADC val 350
+Meat Temperature  27.343773, cycle 19
+#ADC val 351
+Meat Temperature  27.404054, cycle 20
+#ADC val 352
+Meat Temperature  27.464214, cycle 21
+#ADC val 353
+Meat Temperature  27.524253, cycle 22
+#ADC val 351
+Meat Temperature  27.404054, cycle 23
+#ADC val 352
+Meat Temperature  27.464214, cycle 24
+#ADC val 351
+Meat Temperature  27.404054, cycle 25
+#ADC val 352
+Meat Temperature  27.464214, cycle 26
+#ADC val 350
+Meat Temperature  27.343773, cycle 27
+#ADC val 351
+Meat Temperature  27.404054, cycle 28
+#ADC val 349
+Meat Temperature  27.283369, cycle 29
+#ADC val 351
+Meat Temperature  27.404054, cycle 30
+#ADC val 349
+Meat Temperature  27.283369, cycle 31
+#ADC val 352
+Meat Temperature  27.464214, cycle 32
+#ADC val 353
+Meat Temperature  27.524253, cycle 33
+#ADC val 350
+Meat Temperature  27.343773, cycle 34
+#ADC val 351
+Meat Temperature  27.404054, cycle 35
+#ADC val 351
+Meat Temperature  27.404054, cycle 36
+#ADC val 348
+Meat Temperature  27.222842, cycle 37
+#ADC val 352
+Meat Temperature  27.464214, cycle 38
+#ADC val 351
+Meat Temperature  27.404054, cycle 39
+#ADC val 351
+Meat Temperature  27.404054, cycle 40
+#ADC val 352
+Meat Temperature  27.464214, cycle 41
+#ADC val 350
+Meat Temperature  27.343773, cycle 42
+#ADC val 351
+Meat Temperature  27.404054, cycle 43
+#ADC val 351
+Meat Temperature  27.404054, cycle 44
+#ADC val 358
+Meat Temperature  27.822655, cycle 45
+#ADC val 273
+Meat Temperature  22.274914, cycle 46
+#ADC val 273
+Meat Temperature  22.274914, cycle 47
+#ADC val 267
+Meat Temperature  21.837907, cycle 48
+#ADC val 269
+Meat Temperature  21.984375, cycle 49
+#ADC val 283
+Meat Temperature  22.987778, cycle 50
+#ADC val 272
+Meat Temperature  22.202575, cycle 51
+#ADC val 272
+Meat Temperature  22.202575, cycle 52
+#ADC val 272
+Meat Temperature  22.202575, cycle 53
+#ADC val 273
+Meat Temperature  22.274914, cycle 54
+#ADC val 276
+Meat Temperature  22.490764, cycle 55
+#ADC val 273
+Meat Temperature  22.274914, cycle 56
+#ADC val 293
+Meat Temperature  23.682382, cycle 57
+#ADC val 280
+Meat Temperature  22.775892, cycle 58
+#ADC val 279
+Meat Temperature  22.704892, cycle 59
+#ADC val 287
+Meat Temperature  23.267744, cycle 60
+#ADC val 295
+Meat Temperature  23.819215, cycle 61
+#ADC val 300
+Meat Temperature  24.158361, cycle 62
+#ADC val 302
+Meat Temperature  24.292867, cycle 63
+#ADC val 302
+Meat Temperature  24.292867, cycle 64
+#ADC val 306
+Meat Temperature  24.559949, cycle 65
+#ADC val 307
+Meat Temperature  24.626323, cycle 66
+#ADC val 311
+Meat Temperature  24.890261, cycle 67
+#ADC val 310
+Meat Temperature  24.824508, cycle 68
+#ADC val 311
+Meat Temperature  24.890261, cycle 69
+#ADC val 312
+Meat Temperature  24.955861, cycle 70
+#ADC val 312
+Meat Temperature  24.955861, cycle 71
+#ADC val 315
+Meat Temperature  25.151754, cycle 72
+#ADC val 313
+Meat Temperature  25.021310, cycle 73
+#ADC val 317
+Meat Temperature  25.281601, cycle 74
+#ADC val 317
+Meat Temperature  25.281601, cycle 75
+#ADC val 319
+Meat Temperature  25.410858, cycle 76
+#ADC val 317
+Meat Temperature  25.281601, cycle 77
+#ADC val 321
+Meat Temperature  25.539532, cycle 78
+#ADC val 320
+Meat Temperature  25.475267, cycle 79
+#ADC val 318
+Meat Temperature  25.346302, cycle 80
+#ADC val 321
+Meat Temperature  25.539532, cycle 81
+#ADC val 321
+Meat Temperature  25.539532, cycle 82
+#ADC val 323
+Meat Temperature  25.667630, cycle 83
+#ADC val 322
+Meat Temperature  25.603652, cycle 84
+#ADC val 321
+Meat Temperature  25.539532, cycle 85
+#ADC val 323
+Meat Temperature  25.667630, cycle 86
+#ADC val 322
+Meat Temperature  25.603652, cycle 87
+#ADC val 322
+Meat Temperature  25.603652, cycle 88
+#ADC val 323
+Meat Temperature  25.667630, cycle 89
+#ADC val 314
+Meat Temperature  25.086607, cycle 90
+#ADC val 323
+Meat Temperature  25.667630, cycle 91
+#ADC val 323
+Meat Temperature  25.667630, cycle 92
+#ADC val 322
+Meat Temperature  25.603652, cycle 93
+#ADC val 323
+Meat Temperature  25.667630, cycle 94
+#ADC val 319
+Meat Temperature  25.410858, cycle 95
+#ADC val 323
+Meat Temperature  25.667630, cycle 96
+#ADC val 324
+Meat Temperature  25.731464, cycle 97
+#ADC val 327
+Meat Temperature  25.922123, cycle 98
+#ADC val 324
+Meat Temperature  25.731464, cycle 99
+#ADC val 325
+Meat Temperature  25.795158, cycle 100
+#ADC val 322
+Meat Temperature  25.603652, cycle 101
+#ADC val 324
+Meat Temperature  25.731464, cycle 102
+#ADC val 323
+Meat Temperature  25.667630, cycle 103
+#ADC val 323
+Meat Temperature  25.667630, cycle 104
+#ADC val 328
+Meat Temperature  25.985397, cycle 105
+#ADC val 305
+Meat Temperature  24.493417, cycle 106
+#ADC val 322
+Meat Temperature  25.603652, cycle 107
+#ADC val 325
+Meat Temperature  25.795158, cycle 108
+#ADC val 323
+Meat Temperature  25.667630, cycle 109
+#ADC val 326
+Meat Temperature  25.858711, cycle 110
+#ADC val 325
+Meat Temperature  25.795158, cycle 111
+#ADC val 324
+Meat Temperature  25.731464, cycle 112
+#ADC val 322
+Meat Temperature  25.603652, cycle 113
+#ADC val 325
+Meat Temperature  25.795158, cycle 114
+#ADC val 323
+Meat Temperature  25.667630, cycle 115
+#ADC val 327
+Meat Temperature  25.922123, cycle 116
+#ADC val 324
+Meat Temperature  25.731464, cycle 117
+#ADC val 324
+Meat Temperature  25.731464, cycle 118
+#ADC val 323
+Meat Temperature  25.667630, cycle 119
+#ADC val 327
+Meat Temperature  25.922123, cycle 120
+#ADC val 330
+Meat Temperature  26.111530, cycle 121
+#ADC val 329
+Meat Temperature  26.048533, cycle 122
+#ADC val 327
+Meat Temperature  25.922123, cycle 123
+#ADC val 326
+Meat Temperature  25.858711, cycle 124
+#ADC val 326
+Meat Temperature  25.858711, cycle 125
+#ADC val 329
+Meat Temperature  26.048533, cycle 126
+#ADC val 329
+Meat Temperature  26.048533, cycle 127
+#ADC val 325
+Meat Temperature  25.795158, cycle 128
+#ADC val 328
+Meat Temperature  25.985397, cycle 129
+#ADC val 324
+Meat Temperature  25.731464, cycle 130
+#ADC val 326
+Meat Temperature  25.858711, cycle 131
+#ADC val 332
+Meat Temperature  26.237117, cycle 132
+#ADC val 328
+Meat Temperature  25.985397, cycle 133
+#ADC val 324
+Meat Temperature  25.731464, cycle 134
+#ADC val 331
+Meat Temperature  26.174392, cycle 135
+#ADC val 330
+Meat Temperature  26.111530, cycle 136
+#ADC val 327
+Meat Temperature  25.922123, cycle 137
+#ADC val 331
+Meat Temperature  26.174392, cycle 138
+#ADC val 328
+Meat Temperature  25.985397, cycle 139
+#ADC val 331
+Meat Temperature  26.174392, cycle 140
+#ADC val 325
+Meat Temperature  25.795158, cycle 141
+#ADC val 327
+Meat Temperature  25.922123, cycle 142
+#ADC val 330
+Meat Temperature  26.111530, cycle 143
+#ADC val 329
+Meat Temperature  26.048533, cycle 144
+#ADC val 328
+Meat Temperature  25.985397, cycle 145
+#ADC val 326
+Meat Temperature  25.858711, cycle 146
+#ADC val 327
+Meat Temperature  25.922123, cycle 147
+#ADC val 332
+Meat Temperature  26.237117, cycle 148
+#ADC val 330
+Meat Temperature  26.111530, cycle 149
+#ADC val 330
+Meat Temperature  26.111530, cycle 150
+#ADC val 330
+Meat Temperature  26.111530, cycle 151
+#ADC val 328
+Meat Temperature  25.985397, cycle 152
+#ADC val 328
+Meat Temperature  25.985397, cycle 153
+#ADC val 328
+Meat Temperature  25.985397, cycle 154
+#ADC val 333
+Meat Temperature  26.299707, cycle 155
+#ADC val 331
+Meat Temperature  26.174392, cycle 156
+#ADC val 328
+Meat Temperature  25.985397, cycle 157
+#ADC val 325
+Meat Temperature  25.795158, cycle 158
+#ADC val 328
+Meat Temperature  25.985397, cycle 159
+#ADC val 327
+Meat Temperature  25.922123, cycle 160
+#ADC val 327
+Meat Temperature  25.922123, cycle 161
+#ADC val 331
+Meat Temperature  26.174392, cycle 162
+#ADC val 329
+Meat Temperature  26.048533, cycle 163
+#ADC val 329
+Meat Temperature  26.048533, cycle 164
+#ADC val 328
+Meat Temperature  25.985397, cycle 165
+#ADC val 331
+Meat Temperature  26.174392, cycle 166
+#ADC val 327
+Meat Temperature  25.922123, cycle 167
+#ADC val 327
+Meat Temperature  25.922123, cycle 168
+#ADC val 328
+Meat Temperature  25.985397, cycle 169
+#ADC val 326
+Meat Temperature  25.858711, cycle 170
+#ADC val 326
+Meat Temperature  25.858711, cycle 171
+#ADC val 330
+Meat Temperature  26.111530, cycle 172
+#ADC val 326
+Meat Temperature  25.858711, cycle 173
+#ADC val 329
+Meat Temperature  26.048533, cycle 174
+#ADC val 327
+Meat Temperature  25.922123, cycle 175
+#ADC val 332
+Meat Temperature  26.237117, cycle 176
+#ADC val 328
+Meat Temperature  25.985397, cycle 177
+#ADC val 326
+Meat Temperature  25.858711, cycle 178
+#ADC val 333
+Meat Temperature  26.299707, cycle 179
+#ADC val 330
+Meat Temperature  26.111530, cycle 180
+#ADC val 308
+Meat Temperature  24.692540, cycle 181
+#ADC val 330
+Meat Temperature  26.111530, cycle 182
+#ADC val 337
+Meat Temperature  26.548730, cycle 183
+#ADC val 333
+Meat Temperature  26.299707, cycle 184
+#ADC val 328
+Meat Temperature  25.985397, cycle 185
+#ADC val 322
+Meat Temperature  25.603652, cycle 186
+#ADC val 336
+Meat Temperature  26.486674, cycle 187
+#ADC val 336
+Meat Temperature  26.486674, cycle 188
+#ADC val 336
+Meat Temperature  26.486674, cycle 189
+#ADC val 336
+Meat Temperature  26.486674, cycle 190
+#ADC val 337
+Meat Temperature  26.548730, cycle 191
+#ADC val 337
+Meat Temperature  26.548730, cycle 192
+#ADC val 334
+Meat Temperature  26.362163, cycle 193
+#ADC val 336
+Meat Temperature  26.486674, cycle 194
+#ADC val 334
+Meat Temperature  26.362163, cycle 195
+#ADC val 338
+Meat Temperature  26.610656, cycle 196
+#ADC val 325
+Meat Temperature  25.795158, cycle 197
+#ADC val 347
+Meat Temperature  27.162191, cycle 198
+#ADC val 633
+Meat Temperature  41.130919, cycle 199
+#ADC val 4091
+Meat Temperature  679.018410, cycle 200
+#ADC val 2391
+Meat Temperature  95.700265, cycle 201
+#ADC val 2399
+Meat Temperature  95.963454, cycle 202
+#ADC val 2398
+Meat Temperature  95.930511, cycle 203
+#ADC val 2399
+Meat Temperature  95.963454, cycle 204
+#ADC val 2382
+Meat Temperature  95.405135, cycle 205
+#ADC val 2375
+Meat Temperature  95.176281, cycle 206
+#ADC val 2365
+Meat Temperature  94.850379, cycle 207
+#ADC val 2445
+Meat Temperature  97.492986, cycle 208
+#ADC val 1630
+Meat Temperature  72.940867, cycle 209
+#ADC val 1359
+Meat Temperature  65.157732, cycle 210
+#ADC val 1248
+Meat Temperature  61.894050, cycle 211
+#ADC val 1165
+Meat Temperature  59.401244, cycle 212
+#ADC val 1079
+Meat Temperature  56.755279, cycle 213
+#ADC val 997
+Meat Temperature  54.156668, cycle 214
+#ADC val 925
+Meat Temperature  51.799324, cycle 215
+#ADC val 863
+Meat Temperature  49.700745, cycle 216
+#ADC val 795
+Meat Temperature  47.311508, cycle 217
+#ADC val 959
+Meat Temperature  52.922295, cycle 218
+#ADC val 1063
+Meat Temperature  56.254584, cycle 219
+#ADC val 1072
+Meat Temperature  56.536579, cycle 220
+#ADC val 1066
+Meat Temperature  56.348684, cycle 221
+#ADC val 1069
+Meat Temperature  56.442682, cycle 222
+#ADC val 1068
+Meat Temperature  56.411361, cycle 223
+#ADC val 1072
+Meat Temperature  56.536579, cycle 224
+#ADC val 1026
+Meat Temperature  55.085245, cycle 225
+#ADC val 701
+Meat Temperature  43.822820, cycle 226
+#ADC val 599
+Meat Temperature  39.720401, cycle 227
+#ADC val 547
+Meat Temperature  37.464588, cycle 228
+#ADC val 511
+Meat Temperature  35.822350, cycle 229
+#ADC val 483
+Meat Temperature  34.492542, cycle 230
+#ADC val 463
+Meat Temperature  33.511309, cycle 231
+#ADC val 449
+Meat Temperature  32.807527, cycle 232
+#ADC val 434
+Meat Temperature  32.036908, cycle 233
+#ADC val 361
+Meat Temperature  28.000285, cycle 234
+#ADC val 301
+Meat Temperature  24.225696, cycle 235
+#ADC val 324
+Meat Temperature  25.731464, cycle 236
+#ADC val 330
+Meat Temperature  26.111530, cycle 237
+#ADC val 336
+Meat Temperature  26.486674, cycle 238
+#ADC val 338
+Meat Temperature  26.610656, cycle 239
+#ADC val 343
+Meat Temperature  19.397962, cycle 240
+#ADC val 341
+Meat Temperature  19.239353, cycle 241
+#ADC val 342
+Meat Temperature  19.318752, cycle 242
+#ADC val 338
+Meat Temperature  19.000000, cycle 243
+#ADC val 339
+Meat Temperature  19.079978, cycle 244
+#ADC val 340
+Meat Temperature  19.159761, cycle 245
+#ADC val 337
+Meat Temperature  18.919828, cycle 246
+#ADC val 337
+Meat Temperature  18.919828, cycle 247
+#ADC val 336
+Meat Temperature  18.839459, cycle 248
+#ADC val 334
+Meat Temperature  18.678131, cycle 249
+#ADC val 332
+Meat Temperature  18.516004, cycle 250
+#ADC val 330
+Meat Temperature  18.353071, cycle 251
+#ADC val 333
+Meat Temperature  18.597168, cycle 252
+#ADC val 337
+Meat Temperature  18.919828, cycle 253
+#ADC val 328
+Meat Temperature  18.189321, cycle 254
+#ADC val 334
+Meat Temperature  18.678131, cycle 255
+#ADC val 330
+Meat Temperature  18.353071, cycle 256
+#ADC val 308
+Meat Temperature  16.504687, cycle 257
+#ADC val 416
+Meat Temperature  24.729422, cycle 258
+#ADC val 484
+Meat Temperature  29.059920, cycle 259
+#ADC val 462
+Meat Temperature  27.714293, cycle 260
+#ADC val 482
+Meat Temperature  28.939580, cycle 261
+#ADC val 520
+Meat Temperature  31.163143, cycle 262
+#ADC val 469
+Meat Temperature  28.147765, cycle 263
+#ADC val 433
+Meat Temperature  25.861592, cycle 264
+#ADC val 414
+Meat Temperature  24.593817, cycle 265
+#ADC val 398
+Meat Temperature  23.489684, cycle 266
+#ADC val 382
+Meat Temperature  22.349294, cycle 267
+#ADC val 371
+Meat Temperature  21.542679, cycle 268
+#ADC val 371
+Meat Temperature  21.542679, cycle 269
+#ADC val 363
+Meat Temperature  20.943768, cycle 270
+#ADC val 359
+Meat Temperature  20.640274, cycle 271
+#ADC val 354
+Meat Temperature  20.257002, cycle 272
+#ADC val 349
+Meat Temperature  19.869280, cycle 273
+#ADC val 348
+Meat Temperature  19.791190, cycle 274
+#ADC val 344
+Meat Temperature  19.476982, cycle 275
+#ADC val 340
+Meat Temperature  19.159761, cycle 276
+#ADC val 338
+Meat Temperature  19.000000, cycle 277
+#ADC val 337
+Meat Temperature  18.919828, cycle 278
+#ADC val 335
+Meat Temperature  18.758894, cycle 279
+#ADC val 333
+Meat Temperature  18.597168, cycle 280
+#ADC val 333
+Meat Temperature  18.597168, cycle 281
+#ADC val 333
+Meat Temperature  18.597168, cycle 282
+#ADC val 330
+Meat Temperature  18.353071, cycle 283
+#ADC val 334
+Meat Temperature  18.678131, cycle 284
+#ADC val 346
+Meat Temperature  19.634458, cycle 285
+#ADC val 394
+Meat Temperature  23.208098, cycle 286
+#ADC val 393
+Meat Temperature  23.137343, cycle 287
+#ADC val 391
+Meat Temperature  22.995396, cycle 288
+#ADC val 390
+Meat Temperature  22.924203, cycle 289
+#ADC val 387
+Meat Temperature  22.709737, cycle 290
+#ADC val 386
+Meat Temperature  22.637951, cycle 291
+#ADC val 385
+Meat Temperature  22.566014, cycle 292
+#ADC val 384
+Meat Temperature  22.493926, cycle 293
+#ADC val 384
+Meat Temperature  22.493926, cycle 294
+#ADC val 382
+Meat Temperature  22.349294, cycle 295
+#ADC val 381
+Meat Temperature  22.276748, cycle 296
+#ADC val 606
+Meat Temperature  35.774072, cycle 297
+#ADC val 2319
+Meat Temperature  93.060549, cycle 298
+#ADC val 2364
+Meat Temperature  94.442996, cycle 299
+#ADC val 2351
+Meat Temperature  94.042184, cycle 300
+#ADC val 2346
+Meat Temperature  93.888344, cycle 301
+#ADC val 2346
+Meat Temperature  93.888344, cycle 302
+#ADC val 2329
+Meat Temperature  93.366572, cycle 303
+#ADC val 2325
+Meat Temperature  93.244084, cycle 304
+#ADC val 2324
+Meat Temperature  93.213479, cycle 305
+#ADC val 2320
+Meat Temperature  93.091122, cycle 306
+#ADC val 2310
+Meat Temperature  92.785682, cycle 307
+#ADC val 2307
+Meat Temperature  92.694174, cycle 308
+#ADC val 2306
+Meat Temperature  92.663684, cycle 309
+#ADC val 2301
+Meat Temperature  92.511327, cycle 310
+#ADC val 2288
+Meat Temperature  92.115915, cycle 311
+#ADC val 2286
+Meat Temperature  92.055172, cycle 312
+#ADC val 2281
+Meat Temperature  91.903419, cycle 313
+#ADC val 2266
+Meat Temperature  91.449026, cycle 314
+#ADC val 2268
+Meat Temperature  91.509538, cycle 315
+#ADC val 2261
+Meat Temperature  91.297844, cycle 316
+#ADC val 2252
+Meat Temperature  91.026061, cycle 317
+#ADC val 2250
+Meat Temperature  90.965724, cycle 318
+#ADC val 2241
+Meat Temperature  90.694471, cycle 319
+#ADC val 2234
+Meat Temperature  90.483787, cycle 320
+#ADC val 2230
+Meat Temperature  90.363508, cycle 321
+#ADC val 2223
+Meat Temperature  90.153212, cycle 322
+#ADC val 2218
+Meat Temperature  90.003148, cycle 323
+#ADC val 2215
+Meat Temperature  89.913167, cycle 324
+#ADC val 2211
+Meat Temperature  89.793260, cycle 325
+#ADC val 2208
+Meat Temperature  89.703379, cycle 326
+#ADC val 2200
+Meat Temperature  89.463901, cycle 327
+#ADC val 2199
+Meat Temperature  89.433987, cycle 328
+#ADC val 2196
+Meat Temperature  89.344272, cycle 329
+#ADC val 2189
+Meat Temperature  89.135092, cycle 330
+#ADC val 2181
+Meat Temperature  88.896292, cycle 331
+#ADC val 2175
+Meat Temperature  88.717371, cycle 332
+#ADC val 2171
+Meat Temperature  88.598174, cycle 333
+#ADC val 2164
+Meat Temperature  88.389736, cycle 334
+#ADC val 2161
+Meat Temperature  88.300465, cycle 335
+#ADC val 2150
+Meat Temperature  87.973442, cycle 336
+#ADC val 2146
+Meat Temperature  87.854639, cycle 337
+#ADC val 2140
+Meat Temperature  87.676545, cycle 338
+#ADC val 2136
+Meat Temperature  87.557890, cycle 339
+#ADC val 2130
+Meat Temperature  87.380013, cycle 340
+#ADC val 2123
+Meat Temperature  87.172649, cycle 341
+#ADC val 2125
+Meat Temperature  87.231879, cycle 342
+#ADC val 2120
+Meat Temperature  87.083829, cycle 343
+#ADC val 2111
+Meat Temperature  86.817550, cycle 344
+#ADC val 2104
+Meat Temperature  86.610625, cycle 345
+#ADC val 2103
+Meat Temperature  86.581077, cycle 346
+#ADC val 2096
+Meat Temperature  86.374325, cycle 347
+#ADC val 2089
+Meat Temperature  86.167719, cycle 348
+#ADC val 2084
+Meat Temperature  86.020231, cycle 349
+#ADC val 2082
+Meat Temperature  85.961256, cycle 350
+#ADC val 2081
+Meat Temperature  85.931772, cycle 351
+#ADC val 2076
+Meat Temperature  85.784396, cycle 352
+#ADC val 2065
+Meat Temperature  85.460404, cycle 353
+#ADC val 2068
+Meat Temperature  85.548734, cycle 354
+#ADC val 2061
+Meat Temperature  85.342665, cycle 355
+#ADC val 2051
+Meat Temperature  85.048493, cycle 356
+#ADC val 2047
+Meat Temperature  84.930890, cycle 357
+#ADC val 2038
+Meat Temperature  84.666416, cycle 358
+#ADC val 2036
+Meat Temperature  84.607669, cycle 359
+#ADC val 2032
+Meat Temperature  84.490199, cycle 360
+#ADC val 2029
+Meat Temperature  84.402118, cycle 361
+#ADC val 2024
+Meat Temperature  84.255357, cycle 362
+#ADC val 2021
+Meat Temperature  84.167325, cycle 363
+#ADC val 2009
+Meat Temperature  83.815363, cycle 364
+#ADC val 2008
+Meat Temperature  83.786044, cycle 365
+#ADC val 2004
+Meat Temperature  83.668788, cycle 366
+#ADC val 1998
+Meat Temperature  83.492953, cycle 367
+#ADC val 1999
+Meat Temperature  83.522255, cycle 368
+#ADC val 1991
+Meat Temperature  83.287885, cycle 369
+#ADC val 1987
+Meat Temperature  83.170737, cycle 370
+#ADC val 1986
+Meat Temperature  83.141454, cycle 371
+#ADC val 1982
+Meat Temperature  83.024334, cycle 372
+#ADC val 1976
+Meat Temperature  82.848695, cycle 373
+#ADC val 1972
+Meat Temperature  82.731629, cycle 374
+#ADC val 1969
+Meat Temperature  82.643842, cycle 375
+#ADC val 1967
+Meat Temperature  82.585323, cycle 376
+#ADC val 1964
+Meat Temperature  82.497554, cycle 377
+#ADC val 1963
+Meat Temperature  82.468300, cycle 378
+#ADC val 1952
+Meat Temperature  82.146574, cycle 379
+#ADC val 1953
+Meat Temperature  82.175817, cycle 380
+#ADC val 1946
+Meat Temperature  81.971137, cycle 381
+#ADC val 1938
+Meat Temperature  81.737269, cycle 382
+#ADC val 1935
+Meat Temperature  81.649581, cycle 383
+#ADC val 1932
+Meat Temperature  81.561900, cycle 384
+#ADC val 1931
+Meat Temperature  81.532674, cycle 385
+#ADC val 1925
+Meat Temperature  81.357333, cycle 386
+#ADC val 1919
+Meat Temperature  81.182012, cycle 387
+#ADC val 1924
+Meat Temperature  81.328111, cycle 388
+#ADC val 1918
+Meat Temperature  81.152794, cycle 389
+#ADC val 1912
+Meat Temperature  80.977494, cycle 390
+#ADC val 1913
+Meat Temperature  81.006710, cycle 391
+#ADC val 1908
+Meat Temperature  80.860635, cycle 392
+#ADC val 1906
+Meat Temperature  80.802208, cycle 393
+#ADC val 1898
+Meat Temperature  80.568510, cycle 394
+#ADC val 1896
+Meat Temperature  80.510088, cycle 395
+#ADC val 1894
+Meat Temperature  80.451666, cycle 396
+#ADC val 1889
+Meat Temperature  80.305615, cycle 397
+#ADC val 1886
+Meat Temperature  80.217985, cycle 398
+#ADC val 1880
+Meat Temperature  80.042725, cycle 399
+#ADC val 1878
+Meat Temperature  79.984305, cycle 400
+#ADC val 1871
+Meat Temperature  79.779830, cycle 401
+#ADC val 1871
+Meat Temperature  79.779830, cycle 402
+#ADC val 1864
+Meat Temperature  79.575347, cycle 403
+#ADC val 1864
+Meat Temperature  79.575347, cycle 404
+#ADC val 1859
+Meat Temperature  79.429280, cycle 405
+#ADC val 1858
+Meat Temperature  79.400065, cycle 406
+#ADC val 1853
+Meat Temperature  79.253987, cycle 407
+#ADC val 1850
+Meat Temperature  79.166334, cycle 408
+#ADC val 1846
+Meat Temperature  79.049458, cycle 409
+#ADC val 1845
+Meat Temperature  79.020238, cycle 410
+#ADC val 1841
+Meat Temperature  78.903350, cycle 411
+#ADC val 1835
+Meat Temperature  78.728001, cycle 412
+#ADC val 1832
+Meat Temperature  78.640317, cycle 413
+#ADC val 1831
+Meat Temperature  78.611088, cycle 414
+#ADC val 1829
+Meat Temperature  78.552627, cycle 415
+#ADC val 1825
+Meat Temperature  78.435695, cycle 416
+#ADC val 1821
+Meat Temperature  78.318750, cycle 417
+#ADC val 1818
+Meat Temperature  78.231033, cycle 418
+#ADC val 1819
+Meat Temperature  78.260273, cycle 419
+#ADC val 1812
+Meat Temperature  78.055571, cycle 420
+#ADC val 1810
+Meat Temperature  77.997076, cycle 421
+#ADC val 1808
+Meat Temperature  77.938576, cycle 422
+#ADC val 1804
+Meat Temperature  77.821565, cycle 423
+#ADC val 1799
+Meat Temperature  77.675274, cycle 424
+#ADC val 1793
+Meat Temperature  77.499686, cycle 425
+#ADC val 1785
+Meat Temperature  77.265495, cycle 426
+#ADC val 1782
+Meat Temperature  77.177651, cycle 427
+#ADC val 1780
+Meat Temperature  77.119080, cycle 428
+#ADC val 1782
+Meat Temperature  77.177651, cycle 429
+#ADC val 1777
+Meat Temperature  77.031214, cycle 430
+#ADC val 1775
+Meat Temperature  76.972629, cycle 431
+#ADC val 1767
+Meat Temperature  76.738225, cycle 432
+#ADC val 1764
+Meat Temperature  76.650296, cycle 433
+#ADC val 1766
+Meat Temperature  76.708917, cycle 434
+#ADC val 1760
+Meat Temperature  76.533034, cycle 435
+#ADC val 1757
+Meat Temperature  76.445068, cycle 436
+#ADC val 1749
+Meat Temperature  76.210413, cycle 437
+#ADC val 1746
+Meat Temperature  76.122386, cycle 438
+#ADC val 1748
+Meat Temperature  76.181073, cycle 439
+#ADC val 1748
+Meat Temperature  76.181073, cycle 440
+#ADC val 1741
+Meat Temperature  75.975634, cycle 441
+#ADC val 1737
+Meat Temperature  75.858196, cycle 442
+#ADC val 1737
+Meat Temperature  75.858196, cycle 443
+#ADC val 1729
+Meat Temperature  75.623217, cycle 444
+#ADC val 1724
+Meat Temperature  75.476284, cycle 445
+#ADC val 1724
+Meat Temperature  75.476284, cycle 446
+#ADC val 1723
+Meat Temperature  75.446890, cycle 447
+#ADC val 1721
+Meat Temperature  75.388096, cycle 448
+#ADC val 1717
+Meat Temperature  75.270479, cycle 449
+#ADC val 1713
+Meat Temperature  75.152824, cycle 450
+#ADC val 1716
+Meat Temperature  75.241069, cycle 451
+#ADC val 1710
+Meat Temperature  75.064557, cycle 452
+#ADC val 1706
+Meat Temperature  74.946832, cycle 453
+#ADC val 1701
+Meat Temperature  74.799618, cycle 454
+#ADC val 1702
+Meat Temperature  74.829066, cycle 455
+#ADC val 1698
+Meat Temperature  74.711257, cycle 456
+#ADC val 1698
+Meat Temperature  74.711257, cycle 457
+#ADC val 1691
+Meat Temperature  74.504988, cycle 458
+#ADC val 1686
+Meat Temperature  74.357570, cycle 459
+#ADC val 1681
+Meat Temperature  74.210079, cycle 460
+#ADC val 1685
+Meat Temperature  74.328077, cycle 461
+#ADC val 1678
+Meat Temperature  74.121549, cycle 462
+#ADC val 1672
+Meat Temperature  73.944408, cycle 463
+#ADC val 1671
+Meat Temperature  73.914874, cycle 464
+#ADC val 1668
+Meat Temperature  73.826252, cycle 465
+#ADC val 1667
+Meat Temperature  73.796705, cycle 466
+#ADC val 1655
+Meat Temperature  73.441892, cycle 467
+#ADC val 1653
+Meat Temperature  73.382710, cycle 468
+#ADC val 1658
+Meat Temperature  73.530640, cycle 469
+#ADC val 1648
+Meat Temperature  73.234696, cycle 470
+#ADC val 1649
+Meat Temperature  73.264306, cycle 471
+#ADC val 1649
+Meat Temperature  73.264306, cycle 472
+#ADC val 1640
+Meat Temperature  72.997691, cycle 473
+#ADC val 1642
+Meat Temperature  73.056964, cycle 474
+#ADC val 1641
+Meat Temperature  73.027329, cycle 475
+#ADC val 1639
+Meat Temperature  72.968050, cycle 476
+#ADC val 1635
+Meat Temperature  72.849447, cycle 477
+#ADC val 1629
+Meat Temperature  72.671433, cycle 478
+#ADC val 1626
+Meat Temperature  72.582375, cycle 479
+#ADC val 1624
+Meat Temperature  72.522984, cycle 480
+#ADC val 1617
+Meat Temperature  72.314993, cycle 481
+#ADC val 1618
+Meat Temperature  72.344718, cycle 482
+#ADC val 1618
+Meat Temperature  72.344718, cycle 483
+#ADC val 1621
+Meat Temperature  72.433869, cycle 484
+#ADC val 1619
+Meat Temperature  72.374439, cycle 485
+#ADC val 1612
+Meat Temperature  72.166310, cycle 486
+#ADC val 1608
+Meat Temperature  72.047290, cycle 487
+#ADC val 1606
+Meat Temperature  71.987755, cycle 488
+#ADC val 1604
+Meat Temperature  71.928204, cycle 489
+#ADC val 1600
+Meat Temperature  71.809052, cycle 490
+#ADC val 1596
+Meat Temperature  71.689832, cycle 491
+#ADC val 1592
+Meat Temperature  71.570543, cycle 492
+#ADC val 1589
+Meat Temperature  71.481030, cycle 493
+#ADC val 1587
+Meat Temperature  71.421332, cycle 494
+#ADC val 1587
+Meat Temperature  71.421332, cycle 495
+#ADC val 1584
+Meat Temperature  71.331753, cycle 496
+#ADC val 1581
+Meat Temperature  71.242133, cycle 497
+#ADC val 1577
+Meat Temperature  71.122575, cycle 498
+#ADC val 1577
+Meat Temperature  71.122575, cycle 499
+#ADC val 1572
+Meat Temperature  70.973024, cycle 500
+#ADC val 1567
+Meat Temperature  70.823356, cycle 501
+#ADC val 1564
+Meat Temperature  70.733497, cycle 502
+#ADC val 1563
+Meat Temperature  70.703534, cycle 503
+#ADC val 1567
+Meat Temperature  70.823356, cycle 504
+#ADC val 1562
+Meat Temperature  70.673567, cycle 505
+#ADC val 1554
+Meat Temperature  70.433650, cycle 506
+#ADC val 1552
+Meat Temperature  70.373621, cycle 507
+#ADC val 1550
+Meat Temperature  70.313571, cycle 508
+#ADC val 1550
+Meat Temperature  70.313571, cycle 509
+#ADC val 1544
+Meat Temperature  70.133300, cycle 510
+#ADC val 1546
+Meat Temperature  70.193411, cycle 511
+#ADC val 1541
+Meat Temperature  70.043095, cycle 512
+#ADC val 1538
+Meat Temperature  69.952842, cycle 513
+#ADC val 1534
+Meat Temperature  69.832431, cycle 514
+#ADC val 1536
+Meat Temperature  69.892648, cycle 515
+#ADC val 1529
+Meat Temperature  69.681797, cycle 516
+#ADC val 1532
+Meat Temperature  69.772194, cycle 517
+#ADC val 1527
+Meat Temperature  69.621505, cycle 518
+#ADC val 1529
+Meat Temperature  69.681797, cycle 519
+#ADC val 1521
+Meat Temperature  69.440496, cycle 520
+#ADC val 1521
+Meat Temperature  69.440496, cycle 521
+#ADC val 1519
+Meat Temperature  69.380115, cycle 522
+#ADC val 1519
+Meat Temperature  69.380115, cycle 523
+#ADC val 1515
+Meat Temperature  69.259286, cycle 524
+#ADC val 1508
+Meat Temperature  69.047613, cycle 525
+#ADC val 1507
+Meat Temperature  69.017351, cycle 526
+#ADC val 1504
+Meat Temperature  68.926530, cycle 527
+#ADC val 1502
+Meat Temperature  68.865952, cycle 528
+#ADC val 1501
+Meat Temperature  68.835655, cycle 529
+#ADC val 1503
+Meat Temperature  68.896244, cycle 530
+#ADC val 1497
+Meat Temperature  68.714405, cycle 531
+#ADC val 1496
+Meat Temperature  68.684077, cycle 532
+#ADC val 1498
+Meat Temperature  68.744726, cycle 533
+#ADC val 1487
+Meat Temperature  68.410854, cycle 534
+#ADC val 1487
+Meat Temperature  68.410854, cycle 535
+#ADC val 1484
+Meat Temperature  68.319669, cycle 536
+#ADC val 1481
+Meat Temperature  68.228426, cycle 537
+#ADC val 1480
+Meat Temperature  68.198000, cycle 538
+#ADC val 1477
+Meat Temperature  68.106681, cycle 539
+#ADC val 1478
+Meat Temperature  68.137127, cycle 540
+#ADC val 1476
+Meat Temperature  68.076229, cycle 541
+#ADC val 1471
+Meat Temperature  67.923870, cycle 542
+#ADC val 1469
+Meat Temperature  67.862881, cycle 543
+#ADC val 1464
+Meat Temperature  67.710293, cycle 544
+#ADC val 1469
+Meat Temperature  67.862881, cycle 545
+#ADC val 1459
+Meat Temperature  67.557539, cycle 546
+#ADC val 1463
+Meat Temperature  67.679756, cycle 547
+#ADC val 1458
+Meat Temperature  67.526968, cycle 548
+#ADC val 1450
+Meat Temperature  67.282153, cycle 549
+#ADC val 1453
+Meat Temperature  67.374010, cycle 550
+#ADC val 1449
+Meat Temperature  67.251520, cycle 551
+#ADC val 1445
+Meat Temperature  67.128919, cycle 552
+#ADC val 1450
+Meat Temperature  67.282153, cycle 553
+#ADC val 1445
+Meat Temperature  67.128919, cycle 554
+#ADC val 1441
+Meat Temperature  67.006205, cycle 555
+#ADC val 1439
+Meat Temperature  66.944806, cycle 556
+#ADC val 1440
+Meat Temperature  66.975509, cycle 557
+#ADC val 1434
+Meat Temperature  66.791181, cycle 558
+#ADC val 1436
+Meat Temperature  66.852653, cycle 559
+#ADC val 1431
+Meat Temperature  66.698920, cycle 560
+#ADC val 1431
+Meat Temperature  66.698920, cycle 561
+#ADC val 1426
+Meat Temperature  66.545003, cycle 562
+#ADC val 1429
+Meat Temperature  66.637375, cycle 563
+#ADC val 1425
+Meat Temperature  66.514198, cycle 564
+#ADC val 1427
+Meat Temperature  66.575801, cycle 565
+#ADC val 1419
+Meat Temperature  66.329209, cycle 566
+#ADC val 1418
+Meat Temperature  66.298351, cycle 567
+#ADC val 1415
+Meat Temperature  66.205731, cycle 568
+#ADC val 1412
+Meat Temperature  66.113043, cycle 569
+#ADC val 1411
+Meat Temperature  66.082132, cycle 570
+#ADC val 1411
+Meat Temperature  66.082132, cycle 571
+#ADC val 1414
+Meat Temperature  66.174843, cycle 572
+#ADC val 1403
+Meat Temperature  65.834560, cycle 573
+#ADC val 1403
+Meat Temperature  65.834560, cycle 574
+#ADC val 1401
+Meat Temperature  65.772589, cycle 575
+#ADC val 1400
+Meat Temperature  65.741591, cycle 576
+#ADC val 1398
+Meat Temperature  65.679572, cycle 577
+#ADC val 1397
+Meat Temperature  65.648550, cycle 578
+#ADC val 1391
+Meat Temperature  65.462251, cycle 579
+#ADC val 1391
+Meat Temperature  65.462251, cycle 580
+#ADC val 1387
+Meat Temperature  65.337889, cycle 581
+#ADC val 1384
+Meat Temperature  65.244531, cycle 582
+#ADC val 1385
+Meat Temperature  65.275659, cycle 583
+#ADC val 1380
+Meat Temperature  65.119938, cycle 584
+#ADC val 1383
+Meat Temperature  65.213396, cycle 585
+#ADC val 1377
+Meat Temperature  65.026404, cycle 586
+#ADC val 1375
+Meat Temperature  64.964007, cycle 587
+#ADC val 1380
+Meat Temperature  65.119938, cycle 588
+#ADC val 1373
+Meat Temperature  64.901575, cycle 589
+#ADC val 1371
+Meat Temperature  64.839109, cycle 590
+#ADC val 1368
+Meat Temperature  64.745345, cycle 591
+#ADC val 1365
+Meat Temperature  64.651504, cycle 592
+#ADC val 1361
+Meat Temperature  64.526260, cycle 593
+#ADC val 1366
+Meat Temperature  64.682793, cycle 594
+#ADC val 1362
+Meat Temperature  64.557584, cycle 595
+#ADC val 1357
+Meat Temperature  64.400875, cycle 596
+#ADC val 1349
+Meat Temperature  64.149675, cycle 597
+#ADC val 1355
+Meat Temperature  64.338129, cycle 598
+#ADC val 1353
+Meat Temperature  64.275347, cycle 599
+#ADC val 1349
+Meat Temperature  64.149675, cycle 600
+#ADC val 1346
+Meat Temperature  64.055326, cycle 601
+#ADC val 1345
+Meat Temperature  64.023858, cycle 602
+#ADC val 1347
+Meat Temperature  64.086785, cycle 603
+#ADC val 1345
+Meat Temperature  64.023858, cycle 604
+#ADC val 1343
+Meat Temperature  63.960895, cycle 605
+#ADC val 1341
+Meat Temperature  63.897894, cycle 606
+#ADC val 1338
+Meat Temperature  63.803324, cycle 607
+#ADC val 1336
+Meat Temperature  63.740230, cycle 608
+#ADC val 1335
+Meat Temperature  63.708669, cycle 609
+#ADC val 1331
+Meat Temperature  63.582332, cycle 610
+#ADC val 1327
+Meat Temperature  63.455842, cycle 611
+#ADC val 1327
+Meat Temperature  63.455842, cycle 612
+#ADC val 1328
+Meat Temperature  63.487479, cycle 613
+#ADC val 1324
+Meat Temperature  63.360873, cycle 614
+#ADC val 1320
+Meat Temperature  63.234113, cycle 615
+#ADC val 1323
+Meat Temperature  63.329198, cycle 616
+#ADC val 1321
+Meat Temperature  63.265818, cycle 617
+#ADC val 1320
+Meat Temperature  63.234113, cycle 618
+#ADC val 1317
+Meat Temperature  63.138941, cycle 619
+#ADC val 1319
+Meat Temperature  63.202399, cycle 620
+#ADC val 1312
+Meat Temperature  62.980123, cycle 621
+#ADC val 1313
+Meat Temperature  63.011906, cycle 622
+#ADC val 1311
+Meat Temperature  62.948329, cycle 623
+#ADC val 1308
+Meat Temperature  62.852889, cycle 624
+#ADC val 1303
+Meat Temperature  62.693620, cycle 625
+#ADC val 1306
+Meat Temperature  62.789212, cycle 626
+#ADC val 1304
+Meat Temperature  62.725494, cycle 627
+#ADC val 1308
+Meat Temperature  62.852889, cycle 628
+#ADC val 1306
+Meat Temperature  62.789212, cycle 629
+#ADC val 1298
+Meat Temperature  62.534097, cycle 630
+#ADC val 1297
+Meat Temperature  62.502161, cycle 631
+#ADC val 1297
+Meat Temperature  62.502161, cycle 632
+#ADC val 1293
+Meat Temperature  62.374315, cycle 633
+#ADC val 1292
+Meat Temperature  62.342327, cycle 634
+#ADC val 1288
+Meat Temperature  62.214272, cycle 635
+#ADC val 1289
+Meat Temperature  62.246302, cycle 636
+#ADC val 1283
+Meat Temperature  62.053965, cycle 637
+#ADC val 1283
+Meat Temperature  62.053965, cycle 638
+#ADC val 1281
+Meat Temperature  61.989768, cycle 639
+#ADC val 1285
+Meat Temperature  62.118120, cycle 640
+#ADC val 1278
+Meat Temperature  61.893391, cycle 641
+#ADC val 1274
+Meat Temperature  61.764736, cycle 642
+#ADC val 1276
+Meat Temperature  61.829085, cycle 643
+#ADC val 1277
+Meat Temperature  61.861243, cycle 644
+#ADC val 1276
+Meat Temperature  61.829085, cycle 645
+#ADC val 1271
+Meat Temperature  61.668131, cycle 646
+#ADC val 1271
+Meat Temperature  61.668131, cycle 647
+#ADC val 1273
+Meat Temperature  61.732545, cycle 648
+#ADC val 1270
+Meat Temperature  61.635907, cycle 649
+#ADC val 1272
+Meat Temperature  61.700343, cycle 650
+#ADC val 1269
+Meat Temperature  61.603672, cycle 651
+#ADC val 1265
+Meat Temperature  61.474621, cycle 652
+#ADC val 1260
+Meat Temperature  61.313057, cycle 653
+#ADC val 1261
+Meat Temperature  61.345392, cycle 654
+#ADC val 1261
+Meat Temperature  61.345392, cycle 655
+#ADC val 1261
+Meat Temperature  61.345392, cycle 656
+#ADC val 1254
+Meat Temperature  61.118805, cycle 657
+#ADC val 1251
+Meat Temperature  61.021525, cycle 658
+#ADC val 1253
+Meat Temperature  61.086390, cycle 659
+#ADC val 1255
+Meat Temperature  61.151209, cycle 660
+#ADC val 1253
+Meat Temperature  61.086390, cycle 661
+#ADC val 1254
+Meat Temperature  61.118805, cycle 662
+#ADC val 1244
+Meat Temperature  60.794133, cycle 663
+#ADC val 1247
+Meat Temperature  60.891657, cycle 664
+#ADC val 1246
+Meat Temperature  60.859160, cycle 665
+#ADC val 1242
+Meat Temperature  60.729058, cycle 666
+#ADC val 1245
+Meat Temperature  60.826652, cycle 667
+#ADC val 1244
+Meat Temperature  60.794133, cycle 668
+#ADC val 1238
+Meat Temperature  60.598767, cycle 669
+#ADC val 1242
+Meat Temperature  60.729058, cycle 670
+#ADC val 1236
+Meat Temperature  60.533550, cycle 671
+#ADC val 1233
+Meat Temperature  60.435634, cycle 672
+#ADC val 1238
+Meat Temperature  60.598767, cycle 673
+#ADC val 1233
+Meat Temperature  60.435634, cycle 674
+#ADC val 1230
+Meat Temperature  60.337611, cycle 675
+#ADC val 1229
+Meat Temperature  60.304912, cycle 676
+#ADC val 1229
+Meat Temperature  60.304912, cycle 677
+#ADC val 1230
+Meat Temperature  60.337611, cycle 678
+#ADC val 1226
+Meat Temperature  60.206742, cycle 679
+#ADC val 1225
+Meat Temperature  60.173994, cycle 680
+#ADC val 1223
+Meat Temperature  60.108462, cycle 681
+#ADC val 1219
+Meat Temperature  59.977249, cycle 682
+#ADC val 1220
+Meat Temperature  60.010071, cycle 683
+#ADC val 1217
+Meat Temperature  59.911567, cycle 684
+#ADC val 1216
+Meat Temperature  59.878708, cycle 685
+#ADC val 1212
+Meat Temperature  59.747145, cycle 686
+#ADC val 1216
+Meat Temperature  59.878708, cycle 687
+#ADC val 1213
+Meat Temperature  59.780054, cycle 688
+#ADC val 1210
+Meat Temperature  59.681287, cycle 689
+#ADC val 1208
+Meat Temperature  59.615378, cycle 690
+#ADC val 1207
+Meat Temperature  59.582405, cycle 691
+#ADC val 1205
+Meat Temperature  59.516420, cycle 692
+#ADC val 1202
+Meat Temperature  59.417345, cycle 693
+#ADC val 1203
+Meat Temperature  59.450383, cycle 694
+#ADC val 1202
+Meat Temperature  59.417345, cycle 695
+#ADC val 1204
+Meat Temperature  59.483408, cycle 696
+#ADC val 1198
+Meat Temperature  59.285064, cycle 697
+#ADC val 1199
+Meat Temperature  59.318153, cycle 698
+#ADC val 1199
+Meat Temperature  59.318153, cycle 699
+#ADC val 1195
+Meat Temperature  59.185715, cycle 700
+#ADC val 1193
+Meat Temperature  59.119417, cycle 701
+#ADC val 1191
+Meat Temperature  59.053066, cycle 702
+#ADC val 1191
+Meat Temperature  59.053066, cycle 703
+#ADC val 1188
+Meat Temperature  58.953439, cycle 704
+#ADC val 1188
+Meat Temperature  58.953439, cycle 705
+#ADC val 1186
+Meat Temperature  58.886954, cycle 706
+#ADC val 1186
+Meat Temperature  58.886954, cycle 707
+#ADC val 1184
+Meat Temperature  58.820416, cycle 708
+#ADC val 1181
+Meat Temperature  58.720506, cycle 709
+#ADC val 1182
+Meat Temperature  58.753823, cycle 710
+#ADC val 1176
+Meat Temperature  58.553718, cycle 711
+#ADC val 1175
+Meat Temperature  58.520319, cycle 712
+#ADC val 1174
+Meat Temperature  58.486906, cycle 713
+#ADC val 1173
+Meat Temperature  58.453479, cycle 714
+#ADC val 1178
+Meat Temperature  58.620474, cycle 715
+#ADC val 1178
+Meat Temperature  58.620474, cycle 716
+#ADC val 1171
+Meat Temperature  58.386584, cycle 717
+#ADC val 1168
+Meat Temperature  58.286137, cycle 718
+#ADC val 1167
+Meat Temperature  58.252627, cycle 719
+#ADC val 1165
+Meat Temperature  58.185564, cycle 720
+#ADC val 1162
+Meat Temperature  58.084863, cycle 721
+#ADC val 1163
+Meat Temperature  58.118444, cycle 722
+#ADC val 1160
+Meat Temperature  58.017658, cycle 723
+#ADC val 1162
+Meat Temperature  58.084863, cycle 724
+#ADC val 1158
+Meat Temperature  57.950396, cycle 725
+#ADC val 1158
+Meat Temperature  57.950396, cycle 726
+#ADC val 1159
+Meat Temperature  57.984034, cycle 727
+#ADC val 1158
+Meat Temperature  57.950396, cycle 728
+#ADC val 1155
+Meat Temperature  57.849395, cycle 729
+#ADC val 1156
+Meat Temperature  57.883076, cycle 730
+#ADC val 1154
+Meat Temperature  57.815699, cycle 731
+#ADC val 1153
+Meat Temperature  57.781988, cycle 732
+#ADC val 1152
+Meat Temperature  57.748263, cycle 733
+#ADC val 1151
+Meat Temperature  57.714523, cycle 734
+#ADC val 1153
+Meat Temperature  57.781988, cycle 735
+#ADC val 1144
+Meat Temperature  57.477935, cycle 736
+#ADC val 1147
+Meat Temperature  57.579418, cycle 737
+#ADC val 1146
+Meat Temperature  57.545605, cycle 738
+#ADC val 1141
+Meat Temperature  57.376318, cycle 739
+#ADC val 1147
+Meat Temperature  57.579418, cycle 740
+#ADC val 1144
+Meat Temperature  57.477935, cycle 741
+#ADC val 1138
+Meat Temperature  57.274566, cycle 742
+#ADC val 1142
+Meat Temperature  57.410205, cycle 743
+#ADC val 1140
+Meat Temperature  57.342416, cycle 744
+#ADC val 1135
+Meat Temperature  57.172679, cycle 745
+#ADC val 1130
+Meat Temperature  57.002563, cycle 746
+#ADC val 1131
+Meat Temperature  57.036617, cycle 747
+#ADC val 1132
+Meat Temperature  57.070655, cycle 748
+#ADC val 1128
+Meat Temperature  56.934410, cycle 749
+#ADC val 1131
+Meat Temperature  57.036617, cycle 750
+#ADC val 1127
+Meat Temperature  56.900310, cycle 751
+#ADC val 1127
+Meat Temperature  56.900310, cycle 752
+#ADC val 1124
+Meat Temperature  56.797918, cycle 753
+#ADC val 1120
+Meat Temperature  56.661177, cycle 754
+#ADC val 1123
+Meat Temperature  56.763756, cycle 755
+#ADC val 1125
+Meat Temperature  56.832064, cycle 756
+#ADC val 1119
+Meat Temperature  56.626952, cycle 757
+#ADC val 1122
+Meat Temperature  56.729578, cycle 758
+#ADC val 1121
+Meat Temperature  56.695385, cycle 759
+#ADC val 1118
+Meat Temperature  56.592712, cycle 760
+#ADC val 1116
+Meat Temperature  56.524184, cycle 761
+#ADC val 1109
+Meat Temperature  56.283836, cycle 762
+#ADC val 1112
+Meat Temperature  56.386938, cycle 763
+#ADC val 1109
+Meat Temperature  56.283836, cycle 764
+#ADC val 1111
+Meat Temperature  56.352587, cycle 765
+#ADC val 1108
+Meat Temperature  56.249437, cycle 766
+#ADC val 1112
+Meat Temperature  56.386938, cycle 767
+#ADC val 1111
+Meat Temperature  56.352587, cycle 768
+#ADC val 1109
+Meat Temperature  56.283836, cycle 769
+#ADC val 1107
+Meat Temperature  56.215021, cycle 770
+#ADC val 1100
+Meat Temperature  55.973655, cycle 771
+#ADC val 1101
+Meat Temperature  56.008185, cycle 772
+#ADC val 1101
+Meat Temperature  56.008185, cycle 773
+#ADC val 1100
+Meat Temperature  55.973655, cycle 774
+#ADC val 1101
+Meat Temperature  56.008185, cycle 775
+#ADC val 1099
+Meat Temperature  55.939109, cycle 776
+#ADC val 1098
+Meat Temperature  55.904546, cycle 777
+#ADC val 1094
+Meat Temperature  55.766130, cycle 778
+#ADC val 1092
+Meat Temperature  55.696822, cycle 779
+#ADC val 1096
+Meat Temperature  55.835371, cycle 780
+#ADC val 1091
+Meat Temperature  55.662142, cycle 781
+#ADC val 1092
+Meat Temperature  55.696822, cycle 782
+#ADC val 1093
+Meat Temperature  55.731484, cycle 783
+#ADC val 1087
+Meat Temperature  55.523257, cycle 784
+#ADC val 1093
+Meat Temperature  55.731484, cycle 785
+#ADC val 1087
+Meat Temperature  55.523257, cycle 786
+#ADC val 1084
+Meat Temperature  55.418915, cycle 787
+#ADC val 1088
+Meat Temperature  55.558004, cycle 788
+#ADC val 1088
+Meat Temperature  55.558004, cycle 789
+#ADC val 1082
+Meat Temperature  55.349268, cycle 790
+#ADC val 1083
+Meat Temperature  55.384100, cycle 791
+#ADC val 1084
+Meat Temperature  55.418915, cycle 792
+#ADC val 1077
+Meat Temperature  55.174851, cycle 793
+#ADC val 1072
+Meat Temperature  55.000000, cycle 794
+#ADC val 1075
+Meat Temperature  55.104963, cycle 795
+#ADC val 1075
+Meat Temperature  55.104963, cycle 796
+#ADC val 1077
+Meat Temperature  55.174851, cycle 797
+#ADC val 1074
+Meat Temperature  55.069993, cycle 798
+#ADC val 1071
+Meat Temperature  54.964977, cycle 799
+#ADC val 1070
+Meat Temperature  54.929937, cycle 800
+#ADC val 1071
+Meat Temperature  54.964977, cycle 801
+#ADC val 1066
+Meat Temperature  54.789599, cycle 802
+#ADC val 1066
+Meat Temperature  54.789599, cycle 803
+#ADC val 1063
+Meat Temperature  54.684158, cycle 804
+#ADC val 1065
+Meat Temperature  54.754470, cycle 805
+#ADC val 1065
+Meat Temperature  54.754470, cycle 806
+#ADC val 1064
+Meat Temperature  54.719323, cycle 807
+#ADC val 1064
+Meat Temperature  54.719323, cycle 808
+#ADC val 1061
+Meat Temperature  54.613775, cycle 809
+#ADC val 1064
+Meat Temperature  54.719323, cycle 810
+#ADC val 1056
+Meat Temperature  54.437501, cycle 811
+#ADC val 1057
+Meat Temperature  54.472792, cycle 812
+#ADC val 1057
+Meat Temperature  54.472792, cycle 813
+#ADC val 1056
+Meat Temperature  54.437501, cycle 814
+#ADC val 1057
+Meat Temperature  54.472792, cycle 815
+#ADC val 1054
+Meat Temperature  54.366864, cycle 816
+#ADC val 1053
+Meat Temperature  54.331518, cycle 817
+#ADC val 1049
+Meat Temperature  54.189951, cycle 818
+#ADC val 1052
+Meat Temperature  54.296154, cycle 819
+#ADC val 1052
+Meat Temperature  54.296154, cycle 820
+#ADC val 1053
+Meat Temperature  54.331518, cycle 821
+#ADC val 1046
+Meat Temperature  54.083580, cycle 822
+#ADC val 1042
+Meat Temperature  53.941492, cycle 823
+#ADC val 1047
+Meat Temperature  54.119056, cycle 824
+#ADC val 1042
+Meat Temperature  53.941492, cycle 825
+#ADC val 1042
+Meat Temperature  53.941492, cycle 826
+#ADC val 1039
+Meat Temperature  53.834728, cycle 827
+#ADC val 1042
+Meat Temperature  53.941492, cycle 828
+#ADC val 1040
+Meat Temperature  53.870335, cycle 829
+#ADC val 1040
+Meat Temperature  53.870335, cycle 830
+#ADC val 1037
+Meat Temperature  53.763458, cycle 831
+#ADC val 1039
+Meat Temperature  53.834728, cycle 832
+#ADC val 1036
+Meat Temperature  53.727794, cycle 833
+#ADC val 1035
+Meat Temperature  53.692111, cycle 834
+#ADC val 1032
+Meat Temperature  53.584947, cycle 835
+#ADC val 1031
+Meat Temperature  53.549187, cycle 836
+#ADC val 1038
+Meat Temperature  53.799103, cycle 837
+#ADC val 1035
+Meat Temperature  53.692111, cycle 838
+#ADC val 1029
+Meat Temperature  53.477609, cycle 839
+#ADC val 1028
+Meat Temperature  53.441791, cycle 840
+#ADC val 1024
+Meat Temperature  53.298324, cycle 841
+#ADC val 1023
+Meat Temperature  53.262409, cycle 842
+#ADC val 1025
+Meat Temperature  53.334220, cycle 843
+#ADC val 1028
+Meat Temperature  53.441791, cycle 844
+#ADC val 1020
+Meat Temperature  53.154543, cycle 845
+#ADC val 1020
+Meat Temperature  53.154543, cycle 846
+#ADC val 1022
+Meat Temperature  53.226473, cycle 847
+#ADC val 1017
+Meat Temperature  53.046499, cycle 848
+#ADC val 1017
+Meat Temperature  53.046499, cycle 849
+#ADC val 1018
+Meat Temperature  53.082533, cycle 850
+#ADC val 1013
+Meat Temperature  52.902160, cycle 851
+#ADC val 1017
+Meat Temperature  53.046499, cycle 852
+#ADC val 1016
+Meat Temperature  53.010444, cycle 853
+#ADC val 1014
+Meat Temperature  52.938275, cycle 854
+#ADC val 1013
+Meat Temperature  52.902160, cycle 855
+#ADC val 1011
+Meat Temperature  52.829870, cycle 856
+#ADC val 1009
+Meat Temperature  52.757499, cycle 857
+#ADC val 1008
+Meat Temperature  52.721282, cycle 858
+#ADC val 1009
+Meat Temperature  52.757499, cycle 859
+#ADC val 1008
+Meat Temperature  52.721282, cycle 860
+#ADC val 1005
+Meat Temperature  52.612511, cycle 861
+#ADC val 1004
+Meat Temperature  52.576213, cycle 862
+#ADC val 1006
+Meat Temperature  52.648789, cycle 863
+#ADC val 1006
+Meat Temperature  52.648789, cycle 864
+#ADC val 1000
+Meat Temperature  52.430814, cycle 865
+#ADC val 1003
+Meat Temperature  52.539894, cycle 866
+#ADC val 999
+Meat Temperature  52.394413, cycle 867
+#ADC val 1002
+Meat Temperature  52.503555, cycle 868
+#ADC val 1004
+Meat Temperature  52.576213, cycle 869
+#ADC val 998
+Meat Temperature  52.357990, cycle 870
+#ADC val 993
+Meat Temperature  52.175564, cycle 871
+#ADC val 992
+Meat Temperature  52.139015, cycle 872
+#ADC val 998
+Meat Temperature  52.357990, cycle 873
+#ADC val 996
+Meat Temperature  52.285083, cycle 874
+#ADC val 996
+Meat Temperature  52.285083, cycle 875
+#ADC val 995
+Meat Temperature  52.248597, cycle 876
+#ADC val 986
+Meat Temperature  51.919277, cycle 877
+#ADC val 991
+Meat Temperature  52.102445, cycle 878
+#ADC val 986
+Meat Temperature  51.919277, cycle 879
+#ADC val 989
+Meat Temperature  52.029242, cycle 880
+#ADC val 991
+Meat Temperature  52.102445, cycle 881
+#ADC val 989
+Meat Temperature  52.029242, cycle 882
+#ADC val 984
+Meat Temperature  51.845859, cycle 883
+#ADC val 985
+Meat Temperature  51.882579, cycle 884
+#ADC val 988
+Meat Temperature  51.992608, cycle 885
+#ADC val 979
+Meat Temperature  51.661936, cycle 886
+#ADC val 981
+Meat Temperature  51.735570, cycle 887
+#ADC val 978
+Meat Temperature  51.625086, cycle 888
+#ADC val 980
+Meat Temperature  51.698764, cycle 889
+#ADC val 976
+Meat Temperature  51.551320, cycle 890
+#ADC val 977
+Meat Temperature  51.588214, cycle 891
+#ADC val 978
+Meat Temperature  51.625086, cycle 892
+#ADC val 977
+Meat Temperature  51.588214, cycle 893
+#ADC val 969
+Meat Temperature  51.292443, cycle 894
+#ADC val 973
+Meat Temperature  51.440506, cycle 895
+#ADC val 973
+Meat Temperature  51.440506, cycle 896
+#ADC val 974
+Meat Temperature  51.477466, cycle 897
+#ADC val 972
+Meat Temperature  51.403523, cycle 898
+#ADC val 973
+Meat Temperature  51.440506, cycle 899
+#ADC val 969
+Meat Temperature  51.292443, cycle 900
+#ADC val 967
+Meat Temperature  51.218277, cycle 901
+#ADC val 969
+Meat Temperature  51.292443, cycle 902
+#ADC val 970
+Meat Temperature  51.329492, cycle 903
+#ADC val 962
+Meat Temperature  51.032468, cycle 904
+#ADC val 965
+Meat Temperature  51.144021, cycle 905
+#ADC val 963
+Meat Temperature  51.069675, cycle 906
+#ADC val 963
+Meat Temperature  51.069675, cycle 907
+#ADC val 963
+Meat Temperature  51.069675, cycle 908
+#ADC val 964
+Meat Temperature  51.106859, cycle 909
+#ADC val 962
+Meat Temperature  51.032468, cycle 910
+#ADC val 961
+Meat Temperature  50.995238, cycle 911
+#ADC val 959
+Meat Temperature  50.920709, cycle 912
+#ADC val 955
+Meat Temperature  50.771376, cycle 913
+#ADC val 952
+Meat Temperature  50.659134, cycle 914
+#ADC val 951
+Meat Temperature  50.621673, cycle 915
+#ADC val 960
+Meat Temperature  50.957985, cycle 916
+#ADC val 954
+Meat Temperature  50.733985, cycle 917
+#ADC val 953
+Meat Temperature  50.696571, cycle 918
+#ADC val 952
+Meat Temperature  50.659134, cycle 919
+#ADC val 953
+Meat Temperature  50.696571, cycle 920
+#ADC val 953
+Meat Temperature  50.696571, cycle 921
+#ADC val 950
+Meat Temperature  50.584188, cycle 922
+#ADC val 947
+Meat Temperature  50.471595, cycle 923
+#ADC val 950
+Meat Temperature  50.584188, cycle 924
+#ADC val 950
+Meat Temperature  50.584188, cycle 925
+#ADC val 951
+Meat Temperature  50.621673, cycle 926
+#ADC val 949
+Meat Temperature  50.546681, cycle 927
+#ADC val 946
+Meat Temperature  50.434016, cycle 928
+#ADC val 943
+Meat Temperature  50.321139, cycle 929
+#ADC val 945
+Meat Temperature  50.396414, cycle 930
+#ADC val 948
+Meat Temperature  50.509150, cycle 931
+#ADC val 943
+Meat Temperature  50.321139, cycle 932
+#ADC val 944
+Meat Temperature  50.358788, cycle 933
+#ADC val 940
+Meat Temperature  50.208046, cycle 934
+#ADC val 937
+Meat Temperature  50.094738, cycle 935
+#ADC val 931
+Meat Temperature  49.867465, cycle 936
+#ADC val 938
+Meat Temperature  50.132532, cycle 937
+#ADC val 926
+Meat Temperature  49.677397, cycle 938
+#ADC val 934
+Meat Temperature  49.981211, cycle 939
+#ADC val 935
+Meat Temperature  50.019078, cycle 940
+#ADC val 932
+Meat Temperature  49.905405, cycle 941
+#ADC val 936
+Meat Temperature  50.056920, cycle 942
+#ADC val 932
+Meat Temperature  49.905405, cycle 943
+#ADC val 934
+Meat Temperature  49.981211, cycle 944
+#ADC val 929
+Meat Temperature  49.791512, cycle 945
+#ADC val 927
+Meat Temperature  49.715460, cycle 946
+#ADC val 925
+Meat Temperature  49.639308, cycle 947
+#ADC val 930
+Meat Temperature  49.829501, cycle 948
+#ADC val 926
+Meat Temperature  49.677397, cycle 949
+#ADC val 921
+Meat Temperature  49.486706, cycle 950
+#ADC val 923
+Meat Temperature  49.563057, cycle 951
+#ADC val 924
+Meat Temperature  49.601195, cycle 952
+#ADC val 924
+Meat Temperature  49.601195, cycle 953
+#ADC val 925
+Meat Temperature  49.639308, cycle 954
+#ADC val 924
+Meat Temperature  49.601195, cycle 955
+#ADC val 920
+Meat Temperature  49.448493, cycle 956
+#ADC val 924
+Meat Temperature  49.601195, cycle 957
+#ADC val 921
+Meat Temperature  49.486706, cycle 958
+#ADC val 921
+Meat Temperature  49.486706, cycle 959
+#ADC val 914
+Meat Temperature  49.218680, cycle 960
+#ADC val 917
+Meat Temperature  49.333701, cycle 961
+#ADC val 917
+Meat Temperature  49.333701, cycle 962
+#ADC val 913
+Meat Temperature  49.180288, cycle 963
+#ADC val 914
+Meat Temperature  49.218680, cycle 964
+#ADC val 914
+Meat Temperature  49.218680, cycle 965
+#ADC val 914
+Meat Temperature  49.218680, cycle 966
+#ADC val 916
+Meat Temperature  49.295386, cycle 967
+#ADC val 911
+Meat Temperature  49.103428, cycle 968
+#ADC val 913
+Meat Temperature  49.180288, cycle 969
+#ADC val 909
+Meat Temperature  49.026465, cycle 970
+#ADC val 910
+Meat Temperature  49.064960, cycle 971
+#ADC val 907
+Meat Temperature  48.949398, cycle 972
+#ADC val 907
+Meat Temperature  48.949398, cycle 973
+#ADC val 904
+Meat Temperature  48.833602, cycle 974
+#ADC val 907
+Meat Temperature  48.949398, cycle 975
+#ADC val 903
+Meat Temperature  48.794951, cycle 976
+#ADC val 903
+Meat Temperature  48.794951, cycle 977
+#ADC val 907
+Meat Temperature  48.949398, cycle 978
+#ADC val 906
+Meat Temperature  48.910826, cycle 979
+#ADC val 901
+Meat Temperature  48.717570, cycle 980
+#ADC val 901
+Meat Temperature  48.717570, cycle 981
+#ADC val 903
+Meat Temperature  48.794951, cycle 982
+#ADC val 895
+Meat Temperature  48.484788, cycle 983
+#ADC val 899
+Meat Temperature  48.640082, cycle 984
+#ADC val 899
+Meat Temperature  48.640082, cycle 985
+#ADC val 900
+Meat Temperature  48.678839, cycle 986
+#ADC val 899
+Meat Temperature  48.640082, cycle 987
+#ADC val 894
+Meat Temperature  48.445898, cycle 988
+#ADC val 895
+Meat Temperature  48.484788, cycle 989
+#ADC val 896
+Meat Temperature  48.523652, cycle 990
+#ADC val 895
+Meat Temperature  48.484788, cycle 991
+#ADC val 896
+Meat Temperature  48.523652, cycle 992
+#ADC val 893
+Meat Temperature  48.406980, cycle 993
+#ADC val 892
+Meat Temperature  48.368036, cycle 994
+#ADC val 887
+Meat Temperature  48.172906, cycle 995
+#ADC val 893
+Meat Temperature  48.406980, cycle 996
+#ADC val 886
+Meat Temperature  48.133799, cycle 997
+#ADC val 879
+Meat Temperature  47.859271, cycle 998
+#ADC val 888
+Meat Temperature  48.211987, cycle 999
+#ADC val 886
+Meat Temperature  48.133799, cycle 1000
+#ADC val 886
+Meat Temperature  48.133799, cycle 1001
+#ADC val 884
+Meat Temperature  48.055500, cycle 1002
+#ADC val 887
+Meat Temperature  48.172906, cycle 1003
+#ADC val 885
+Meat Temperature  48.094663, cycle 1004
+#ADC val 885
+Meat Temperature  48.094663, cycle 1005
+#ADC val 881
+Meat Temperature  47.937846, cycle 1006
+#ADC val 883
+Meat Temperature  48.016310, cycle 1007
+#ADC val 882
+Meat Temperature  47.977092, cycle 1008
+#ADC val 878
+Meat Temperature  47.819941, cycle 1009
+#ADC val 879
+Meat Temperature  47.859271, cycle 1010
+#ADC val 877
+Meat Temperature  47.780583, cycle 1011
+#ADC val 881
+Meat Temperature  47.937846, cycle 1012
+#ADC val 875
+Meat Temperature  47.701784, cycle 1013
+#ADC val 879
+Meat Temperature  47.859271, cycle 1014
+#ADC val 874
+Meat Temperature  47.662342, cycle 1015
+#ADC val 877
+Meat Temperature  47.780583, cycle 1016
+#ADC val 871
+Meat Temperature  47.543845, cycle 1017
+#ADC val 872
+Meat Temperature  47.583372, cycle 1018
+#ADC val 869
+Meat Temperature  47.464704, cycle 1019
+#ADC val 871
+Meat Temperature  47.543845, cycle 1020
+#ADC val 868
+Meat Temperature  47.425091, cycle 1021
+#ADC val 875
+Meat Temperature  47.701784, cycle 1022
+#ADC val 866
+Meat Temperature  47.345779, cycle 1023
+#ADC val 867
+Meat Temperature  47.385449, cycle 1024
+#ADC val 868
+Meat Temperature  47.425091, cycle 1025
+#ADC val 866
+Meat Temperature  47.345779, cycle 1026
+#ADC val 869
+Meat Temperature  47.464704, cycle 1027
+#ADC val 864
+Meat Temperature  47.266350, cycle 1028
+#ADC val 869
+Meat Temperature  47.464704, cycle 1029
+#ADC val 863
+Meat Temperature  47.226592, cycle 1030
+#ADC val 864
+Meat Temperature  47.266350, cycle 1031
+#ADC val 863
+Meat Temperature  47.226592, cycle 1032
+#ADC val 858
+Meat Temperature  47.027366, cycle 1033
+#ADC val 862
+Meat Temperature  47.186806, cycle 1034
+#ADC val 858
+Meat Temperature  47.027366, cycle 1035
+#ADC val 862
+Meat Temperature  47.186806, cycle 1036
+#ADC val 861
+Meat Temperature  47.146990, cycle 1037
+#ADC val 860
+Meat Temperature  47.107144, cycle 1038
+#ADC val 857
+Meat Temperature  46.987432, cycle 1039
+#ADC val 855
+Meat Temperature  46.907476, cycle 1040
+#ADC val 861
+Meat Temperature  47.146990, cycle 1041
+#ADC val 855
+Meat Temperature  46.907476, cycle 1042
+#ADC val 858
+Meat Temperature  47.027366, cycle 1043
+#ADC val 855
+Meat Temperature  46.907476, cycle 1044
+#ADC val 856
+Meat Temperature  46.947469, cycle 1045
+#ADC val 851
+Meat Temperature  46.747206, cycle 1046
+#ADC val 855
+Meat Temperature  46.907476, cycle 1047
+#ADC val 852
+Meat Temperature  46.787319, cycle 1048
+#ADC val 854
+Meat Temperature  46.867453, cycle 1049
+#ADC val 853
+Meat Temperature  46.827401, cycle 1050
+#ADC val 848
+Meat Temperature  46.626689, cycle 1051
+#ADC val 850
+Meat Temperature  46.707064, cycle 1052
+#ADC val 849
+Meat Temperature  46.666892, cycle 1053
+#ADC val 848
+Meat Temperature  46.626689, cycle 1054
+#ADC val 842
+Meat Temperature  46.384835, cycle 1055
+#ADC val 847
+Meat Temperature  46.586456, cycle 1056
+#ADC val 848
+Meat Temperature  46.626689, cycle 1057
+#ADC val 847
+Meat Temperature  46.586456, cycle 1058
+#ADC val 842
+Meat Temperature  46.384835, cycle 1059
+#ADC val 844
+Meat Temperature  46.465575, cycle 1060
+#ADC val 839
+Meat Temperature  46.263494, cycle 1061
+#ADC val 842
+Meat Temperature  46.384835, cycle 1062
+#ADC val 845
+Meat Temperature  46.505899, cycle 1063
+#ADC val 844
+Meat Temperature  46.465575, cycle 1064
+#ADC val 841
+Meat Temperature  46.344419, cycle 1065
+#ADC val 841
+Meat Temperature  46.344419, cycle 1066
+#ADC val 841
+Meat Temperature  46.344419, cycle 1067
+#ADC val 841
+Meat Temperature  46.344419, cycle 1068
+#ADC val 838
+Meat Temperature  46.222985, cycle 1069
+#ADC val 836
+Meat Temperature  46.141874, cycle 1070
+#ADC val 839
+Meat Temperature  46.263494, cycle 1071
+#ADC val 839
+Meat Temperature  46.263494, cycle 1072
+#ADC val 838
+Meat Temperature  46.222985, cycle 1073
+#ADC val 835
+Meat Temperature  46.101272, cycle 1074
+#ADC val 833
+Meat Temperature  46.019973, cycle 1075
+#ADC val 839
+Meat Temperature  46.263494, cycle 1076
+#ADC val 833
+Meat Temperature  46.019973, cycle 1077
+#ADC val 831
+Meat Temperature  45.938548, cycle 1078
+#ADC val 836
+Meat Temperature  46.141874, cycle 1079
+#ADC val 833
+Meat Temperature  46.019973, cycle 1080
+#ADC val 827
+Meat Temperature  45.775319, cycle 1081
+#ADC val 834
+Meat Temperature  46.060638, cycle 1082
+#ADC val 832
+Meat Temperature  45.979276, cycle 1083
+#ADC val 833
+Meat Temperature  46.019973, cycle 1084
+#ADC val 828
+Meat Temperature  45.816174, cycle 1085
+#ADC val 831
+Meat Temperature  45.938548, cycle 1086
+#ADC val 828
+Meat Temperature  45.816174, cycle 1087
+#ADC val 825
+Meat Temperature  45.693512, cycle 1088
+#ADC val 828
+Meat Temperature  45.816174, cycle 1089
+#ADC val 820
+Meat Temperature  45.488432, cycle 1090
+#ADC val 822
+Meat Temperature  45.570561, cycle 1091
+#ADC val 826
+Meat Temperature  45.734431, cycle 1092
+#ADC val 824
+Meat Temperature  45.652561, cycle 1093
+#ADC val 820
+Meat Temperature  45.488432, cycle 1094
+#ADC val 822
+Meat Temperature  45.570561, cycle 1095
+#ADC val 818
+Meat Temperature  45.406173, cycle 1096
+#ADC val 823
+Meat Temperature  45.611577, cycle 1097
+#ADC val 818
+Meat Temperature  45.406173, cycle 1098
+#ADC val 818
+Meat Temperature  45.406173, cycle 1099
+#ADC val 819
+Meat Temperature  45.447319, cycle 1100
+#ADC val 817
+Meat Temperature  45.364994, cycle 1101
+#ADC val 815
+Meat Temperature  45.282538, cycle 1102
+#ADC val 817
+Meat Temperature  45.364994, cycle 1103
+#ADC val 816
+Meat Temperature  45.323782, cycle 1104
+#ADC val 819
+Meat Temperature  45.447319, cycle 1105
+#ADC val 818
+Meat Temperature  45.406173, cycle 1106
+#ADC val 812
+Meat Temperature  45.158606, cycle 1107
+#ADC val 814
+Meat Temperature  45.241260, cycle 1108
+#ADC val 814
+Meat Temperature  45.241260, cycle 1109
+#ADC val 813
+Meat Temperature  45.199949, cycle 1110
+#ADC val 813
+Meat Temperature  45.199949, cycle 1111
+#ADC val 813
+Meat Temperature  45.199949, cycle 1112
+#ADC val 811
+Meat Temperature  45.117228, cycle 1113
+#ADC val 808
+Meat Temperature  44.992896, cycle 1114
+#ADC val 808
+Meat Temperature  44.992896, cycle 1115
+#ADC val 807
+Meat Temperature  44.951385, cycle 1116
+#ADC val 805
+Meat Temperature  44.868262, cycle 1117
+#ADC val 809
+Meat Temperature  45.034374, cycle 1118
+#ADC val 809
+Meat Temperature  45.034374, cycle 1119
+#ADC val 808
+Meat Temperature  44.992896, cycle 1120
+#ADC val 805
+Meat Temperature  44.868262, cycle 1121
+#ADC val 802
+Meat Temperature  44.743322, cycle 1122
+#ADC val 805
+Meat Temperature  44.868262, cycle 1123
+#ADC val 801
+Meat Temperature  44.701607, cycle 1124
+#ADC val 802
+Meat Temperature  44.743322, cycle 1125
+#ADC val 797
+Meat Temperature  44.534404, cycle 1126
+#ADC val 802
+Meat Temperature  44.743322, cycle 1127
+#ADC val 800
+Meat Temperature  44.659858, cycle 1128
+#ADC val 799
+Meat Temperature  44.618075, cycle 1129
+#ADC val 801
+Meat Temperature  44.701607, cycle 1130
+#ADC val 800
+Meat Temperature  44.659858, cycle 1131
+#ADC val 791
+Meat Temperature  44.282559, cycle 1132
+#ADC val 803
+Meat Temperature  44.785003, cycle 1133
+#ADC val 796
+Meat Temperature  44.492517, cycle 1134
+#ADC val 798
+Meat Temperature  44.576257, cycle 1135
+#ADC val 796
+Meat Temperature  44.492517, cycle 1136
+#ADC val 797
+Meat Temperature  44.534404, cycle 1137
+#ADC val 796
+Meat Temperature  44.492517, cycle 1138
+#ADC val 799
+Meat Temperature  44.618075, cycle 1139
+#ADC val 795
+Meat Temperature  44.450596, cycle 1140
+#ADC val 792
+Meat Temperature  44.324621, cycle 1141
+#ADC val 792
+Meat Temperature  44.324621, cycle 1142
+#ADC val 793
+Meat Temperature  44.366647, cycle 1143
+#ADC val 795
+Meat Temperature  44.450596, cycle 1144
+#ADC val 796
+Meat Temperature  44.492517, cycle 1145
+#ADC val 792
+Meat Temperature  44.324621, cycle 1146
+#ADC val 792
+Meat Temperature  44.324621, cycle 1147
+#ADC val 787
+Meat Temperature  44.113959, cycle 1148
+#ADC val 786
+Meat Temperature  44.071721, cycle 1149
+#ADC val 788
+Meat Temperature  44.156163, cycle 1150
+#ADC val 789
+Meat Temperature  44.198330, cycle 1151
+#ADC val 789
+Meat Temperature  44.198330, cycle 1152
+#ADC val 787
+Meat Temperature  44.113959, cycle 1153
+#ADC val 788
+Meat Temperature  44.156163, cycle 1154
+#ADC val 782
+Meat Temperature  43.902408, cycle 1155
+#ADC val 786
+Meat Temperature  44.071721, cycle 1156
+#ADC val 784
+Meat Temperature  43.987136, cycle 1157
+#ADC val 787
+Meat Temperature  44.113959, cycle 1158
+#ADC val 786
+Meat Temperature  44.071721, cycle 1159
+#ADC val 786
+Meat Temperature  44.071721, cycle 1160
+#ADC val 784
+Meat Temperature  43.987136, cycle 1161
+#ADC val 780
+Meat Temperature  43.817536, cycle 1162
+#ADC val 778
+Meat Temperature  43.732518, cycle 1163
+#ADC val 778
+Meat Temperature  43.732518, cycle 1164
+#ADC val 784
+Meat Temperature  43.987136, cycle 1165
+#ADC val 778
+Meat Temperature  43.732518, cycle 1166
+#ADC val 779
+Meat Temperature  43.775045, cycle 1167
+#ADC val 784
+Meat Temperature  43.987136, cycle 1168
+#ADC val 782
+Meat Temperature  43.902408, cycle 1169
+#ADC val 774
+Meat Temperature  43.562045, cycle 1170
+#ADC val 775
+Meat Temperature  43.604719, cycle 1171
+#ADC val 777
+Meat Temperature  43.689955, cycle 1172
+#ADC val 779
+Meat Temperature  43.775045, cycle 1173
+#ADC val 775
+Meat Temperature  43.604719, cycle 1174
+#ADC val 774
+Meat Temperature  43.562045, cycle 1175
+#ADC val 774
+Meat Temperature  43.562045, cycle 1176
+#ADC val 776
+Meat Temperature  43.647355, cycle 1177
+#ADC val 773
+Meat Temperature  43.519335, cycle 1178
+#ADC val 776
+Meat Temperature  43.647355, cycle 1179
+#ADC val 770
+Meat Temperature  43.390982, cycle 1180
+#ADC val 773
+Meat Temperature  43.519335, cycle 1181
+#ADC val 770
+Meat Temperature  43.390982, cycle 1182
+#ADC val 774
+Meat Temperature  43.562045, cycle 1183
+#ADC val 768
+Meat Temperature  43.305227, cycle 1184
+#ADC val 772
+Meat Temperature  43.476588, cycle 1185
+#ADC val 771
+Meat Temperature  43.433803, cycle 1186
+#ADC val 769
+Meat Temperature  43.348123, cycle 1187
+#ADC val 766
+Meat Temperature  43.219321, cycle 1188
+#ADC val 765
+Meat Temperature  43.176312, cycle 1189
+#ADC val 767
+Meat Temperature  43.262293, cycle 1190
+#ADC val 763
+Meat Temperature  43.090181, cycle 1191
+#ADC val 768
+Meat Temperature  43.305227, cycle 1192
+#ADC val 765
+Meat Temperature  43.176312, cycle 1193
+#ADC val 763
+Meat Temperature  43.090181, cycle 1194
+#ADC val 764
+Meat Temperature  43.133266, cycle 1195
+#ADC val 765
+Meat Temperature  43.176312, cycle 1196
+#ADC val 762
+Meat Temperature  43.047058, cycle 1197
+#ADC val 765
+Meat Temperature  43.176312, cycle 1198
+#ADC val 766
+Meat Temperature  43.219321, cycle 1199
+#ADC val 762
+Meat Temperature  43.047058, cycle 1200
+#ADC val 761
+Meat Temperature  43.003897, cycle 1201
+#ADC val 763
+Meat Temperature  43.090181, cycle 1202
+#ADC val 762
+Meat Temperature  43.047058, cycle 1203
+#ADC val 756
+Meat Temperature  42.787517, cycle 1204
+#ADC val 760
+Meat Temperature  42.960698, cycle 1205
+#ADC val 757
+Meat Temperature  42.830870, cycle 1206
+#ADC val 756
+Meat Temperature  42.787517, cycle 1207
+#ADC val 761
+Meat Temperature  43.003897, cycle 1208
+#ADC val 756
+Meat Temperature  42.787517, cycle 1209
+#ADC val 754
+Meat Temperature  42.700694, cycle 1210
+#ADC val 754
+Meat Temperature  42.700694, cycle 1211
+#ADC val 759
+Meat Temperature  42.917461, cycle 1212
+#ADC val 754
+Meat Temperature  42.700694, cycle 1213
+#ADC val 755
+Meat Temperature  42.744125, cycle 1214
+#ADC val 754
+Meat Temperature  42.700694, cycle 1215
+#ADC val 753
+Meat Temperature  42.657225, cycle 1216
+#ADC val 754
+Meat Temperature  42.700694, cycle 1217
+#ADC val 750
+Meat Temperature  42.526580, cycle 1218
+#ADC val 751
+Meat Temperature  42.570168, cycle 1219
+#ADC val 744
+Meat Temperature  42.264224, cycle 1220
+#ADC val 748
+Meat Temperature  42.439287, cycle 1221
+#ADC val 749
+Meat Temperature  42.482954, cycle 1222
+#ADC val 753
+Meat Temperature  42.657225, cycle 1223
+#ADC val 745
+Meat Temperature  42.308050, cycle 1224
+#ADC val 747
+Meat Temperature  42.395581, cycle 1225
+#ADC val 746
+Meat Temperature  42.351835, cycle 1226
+#ADC val 749
+Meat Temperature  42.482954, cycle 1227
+#ADC val 749
+Meat Temperature  42.482954, cycle 1228
+#ADC val 744
+Meat Temperature  42.264224, cycle 1229
+#ADC val 747
+Meat Temperature  42.395581, cycle 1230
+#ADC val 744
+Meat Temperature  42.264224, cycle 1231
+#ADC val 743
+Meat Temperature  42.220358, cycle 1232
+#ADC val 741
+Meat Temperature  42.132506, cycle 1233
+#ADC val 747
+Meat Temperature  42.395581, cycle 1234
+#ADC val 744
+Meat Temperature  42.264224, cycle 1235
+#ADC val 739
+Meat Temperature  42.044492, cycle 1236
+#ADC val 744
+Meat Temperature  42.264224, cycle 1237
+#ADC val 744
+Meat Temperature  42.264224, cycle 1238
+#ADC val 745
+Meat Temperature  42.308050, cycle 1239
+#ADC val 744
+Meat Temperature  42.264224, cycle 1240
+#ADC val 739
+Meat Temperature  42.044492, cycle 1241
+#ADC val 746
+Meat Temperature  42.351835, cycle 1242
+#ADC val 743
+Meat Temperature  42.220358, cycle 1243
+#ADC val 738
+Meat Temperature  42.000424, cycle 1244
+#ADC val 737
+Meat Temperature  41.956315, cycle 1245
+#ADC val 738
+Meat Temperature  42.000424, cycle 1246
+#ADC val 736
+Meat Temperature  41.912165, cycle 1247
+#ADC val 737
+Meat Temperature  41.956315, cycle 1248
+#ADC val 741
+Meat Temperature  42.132506, cycle 1249
+#ADC val 739
+Meat Temperature  42.044492, cycle 1250
+#ADC val 740
+Meat Temperature  42.088519, cycle 1251
+#ADC val 736
+Meat Temperature  41.912165, cycle 1252
+#ADC val 736
+Meat Temperature  41.912165, cycle 1253
+#ADC val 738
+Meat Temperature  42.000424, cycle 1254
+#ADC val 734
+Meat Temperature  41.823743, cycle 1255
+#ADC val 734
+Meat Temperature  41.823743, cycle 1256
+#ADC val 731
+Meat Temperature  41.690799, cycle 1257
+#ADC val 731
+Meat Temperature  41.690799, cycle 1258
+#ADC val 729
+Meat Temperature  41.601962, cycle 1259
+#ADC val 729
+Meat Temperature  41.601962, cycle 1260
+#ADC val 726
+Meat Temperature  41.468392, cycle 1261
+#ADC val 733
+Meat Temperature  41.779470, cycle 1262
+#ADC val 732
+Meat Temperature  41.735155, cycle 1263
+#ADC val 734
+Meat Temperature  41.823743, cycle 1264
+#ADC val 732
+Meat Temperature  41.735155, cycle 1265
+#ADC val 732
+Meat Temperature  41.735155, cycle 1266
+#ADC val 728
+Meat Temperature  41.557481, cycle 1267
+#ADC val 727
+Meat Temperature  41.512958, cycle 1268
+#ADC val 727
+Meat Temperature  41.512958, cycle 1269
+#ADC val 727
+Meat Temperature  41.512958, cycle 1270
+#ADC val 730
+Meat Temperature  41.646402, cycle 1271
+#ADC val 728
+Meat Temperature  41.557481, cycle 1272
+#ADC val 727
+Meat Temperature  41.512958, cycle 1273
+#ADC val 725
+Meat Temperature  41.423785, cycle 1274
+#ADC val 730
+Meat Temperature  41.646402, cycle 1275
+#ADC val 722
+Meat Temperature  41.289708, cycle 1276
+#ADC val 722
+Meat Temperature  41.289708, cycle 1277
+#ADC val 722
+Meat Temperature  41.289708, cycle 1278
+#ADC val 724
+Meat Temperature  41.379135, cycle 1279
+#ADC val 725
+Meat Temperature  41.423785, cycle 1280
+#ADC val 723
+Meat Temperature  41.334443, cycle 1281
+#ADC val 721
+Meat Temperature  41.244930, cycle 1282
+#ADC val 720
+Meat Temperature  41.200109, cycle 1283
+#ADC val 723
+Meat Temperature  41.334443, cycle 1284
+#ADC val 720
+Meat Temperature  41.200109, cycle 1285
+#ADC val 722
+Meat Temperature  41.289708, cycle 1286
+#ADC val 720
+Meat Temperature  41.200109, cycle 1287
+#ADC val 719
+Meat Temperature  41.155246, cycle 1288
+#ADC val 719
+Meat Temperature  41.155246, cycle 1289
+#ADC val 721
+Meat Temperature  41.244930, cycle 1290
+#ADC val 719
+Meat Temperature  41.155246, cycle 1291
+#ADC val 713
+Meat Temperature  40.885156, cycle 1292
+#ADC val 719
+Meat Temperature  41.155246, cycle 1293
+#ADC val 713
+Meat Temperature  40.885156, cycle 1294
+#ADC val 714
+Meat Temperature  40.930280, cycle 1295
+#ADC val 718
+Meat Temperature  41.110339, cycle 1296
+#ADC val 710
+Meat Temperature  40.749520, cycle 1297
+#ADC val 716
+Meat Temperature  41.020396, cycle 1298
+#ADC val 718
+Meat Temperature  41.110339, cycle 1299
+#ADC val 706
+Meat Temperature  40.568053, cycle 1300
+#ADC val 713
+Meat Temperature  40.885156, cycle 1301
+#ADC val 715
+Meat Temperature  40.975360, cycle 1302
+#ADC val 714
+Meat Temperature  40.930280, cycle 1303
+#ADC val 709
+Meat Temperature  40.704220, cycle 1304
+#ADC val 713
+Meat Temperature  40.885156, cycle 1305
+#ADC val 712
+Meat Temperature  40.839988, cycle 1306
+#ADC val 716
+Meat Temperature  41.020396, cycle 1307
+#ADC val 710
+Meat Temperature  40.749520, cycle 1308
+#ADC val 714
+Meat Temperature  40.930280, cycle 1309
+#ADC val 709
+Meat Temperature  40.704220, cycle 1310
+#ADC val 709
+Meat Temperature  40.704220, cycle 1311
+#ADC val 713
+Meat Temperature  40.885156, cycle 1312
+#ADC val 711
+Meat Temperature  40.794776, cycle 1313
+#ADC val 706
+Meat Temperature  40.568053, cycle 1314
+#ADC val 705
+Meat Temperature  40.522575, cycle 1315
+#ADC val 703
+Meat Temperature  40.431483, cycle 1316
+#ADC val 705
+Meat Temperature  40.522575, cycle 1317
+#ADC val 704
+Meat Temperature  40.477052, cycle 1318
+#ADC val 709
+Meat Temperature  40.704220, cycle 1319
+#ADC val 706
+Meat Temperature  40.568053, cycle 1320
+#ADC val 703
+Meat Temperature  40.431483, cycle 1321
+#ADC val 706
+Meat Temperature  40.568053, cycle 1322
+#ADC val 710
+Meat Temperature  40.749520, cycle 1323
+#ADC val 702
+Meat Temperature  40.385870, cycle 1324
+#ADC val 704
+Meat Temperature  40.477052, cycle 1325
+#ADC val 708
+Meat Temperature  40.658876, cycle 1326
+#ADC val 707
+Meat Temperature  40.613487, cycle 1327
+#ADC val 696
+Meat Temperature  40.111233, cycle 1328
+#ADC val 702
+Meat Temperature  40.385870, cycle 1329
+#ADC val 703
+Meat Temperature  40.431483, cycle 1330
+#ADC val 705
+Meat Temperature  40.522575, cycle 1331
+#ADC val 697
+Meat Temperature  40.157120, cycle 1332
+#ADC val 698
+Meat Temperature  40.202962, cycle 1333
+#ADC val 695
+Meat Temperature  40.065300, cycle 1334
+#ADC val 700
+Meat Temperature  40.294507, cycle 1335
+#ADC val 695
+Meat Temperature  40.065300, cycle 1336
+#ADC val 699
+Meat Temperature  40.248757, cycle 1337
+#ADC val 698
+Meat Temperature  40.202962, cycle 1338
+#ADC val 698
+Meat Temperature  40.202962, cycle 1339
+#ADC val 696
+Meat Temperature  40.111233, cycle 1340
+#ADC val 698
+Meat Temperature  40.202962, cycle 1341
+#ADC val 697
+Meat Temperature  40.157120, cycle 1342
+#ADC val 696
+Meat Temperature  40.111233, cycle 1343
+#ADC val 698
+Meat Temperature  40.202962, cycle 1344
+#ADC val 695
+Meat Temperature  40.065300, cycle 1345
+#ADC val 693
+Meat Temperature  39.973294, cycle 1346
+#ADC val 696
+Meat Temperature  40.111233, cycle 1347
+#ADC val 691
+Meat Temperature  39.881102, cycle 1348
+#ADC val 688
+Meat Temperature  39.742463, cycle 1349
+#ADC val 694
+Meat Temperature  40.019320, cycle 1350
+#ADC val 696
+Meat Temperature  40.111233, cycle 1351
+#ADC val 693
+Meat Temperature  39.973294, cycle 1352
+#ADC val 687
+Meat Temperature  39.696156, cycle 1353
+#ADC val 692
+Meat Temperature  39.927221, cycle 1354
+#ADC val 688
+Meat Temperature  39.742463, cycle 1355
+#ADC val 690
+Meat Temperature  39.834936, cycle 1356
+#ADC val 694
+Meat Temperature  40.019320, cycle 1357
+#ADC val 687
+Meat Temperature  39.696156, cycle 1358
+#ADC val 687
+Meat Temperature  39.696156, cycle 1359
+#ADC val 691
+Meat Temperature  39.881102, cycle 1360
+#ADC val 685
+Meat Temperature  39.603399, cycle 1361
+#ADC val 691
+Meat Temperature  39.881102, cycle 1362
+#ADC val 687
+Meat Temperature  39.696156, cycle 1363
+#ADC val 692
+Meat Temperature  39.927221, cycle 1364
+#ADC val 687
+Meat Temperature  39.696156, cycle 1365
+#ADC val 686
+Meat Temperature  39.649801, cycle 1366
+#ADC val 683
+Meat Temperature  39.510451, cycle 1367
+#ADC val 687
+Meat Temperature  39.696156, cycle 1368
+#ADC val 687
+Meat Temperature  39.696156, cycle 1369
+#ADC val 684
+Meat Temperature  39.556949, cycle 1370
+#ADC val 682
+Meat Temperature  39.463906, cycle 1371
+#ADC val 682
+Meat Temperature  39.463906, cycle 1372
+#ADC val 684
+Meat Temperature  39.556949, cycle 1373
+#ADC val 685
+Meat Temperature  39.603399, cycle 1374
+#ADC val 681
+Meat Temperature  39.417312, cycle 1375
+#ADC val 684
+Meat Temperature  39.556949, cycle 1376
+#ADC val 683
+Meat Temperature  39.510451, cycle 1377
+#ADC val 683
+Meat Temperature  39.510451, cycle 1378
+#ADC val 678
+Meat Temperature  39.277240, cycle 1379
+#ADC val 682
+Meat Temperature  39.463906, cycle 1380
+#ADC val 678
+Meat Temperature  39.277240, cycle 1381
+#ADC val 679
+Meat Temperature  39.323979, cycle 1382
+#ADC val 681
+Meat Temperature  39.417312, cycle 1383
+#ADC val 680
+Meat Temperature  39.370670, cycle 1384
+#ADC val 676
+Meat Temperature  39.183616, cycle 1385
+#ADC val 674
+Meat Temperature  39.089796, cycle 1386
+#ADC val 681
+Meat Temperature  39.417312, cycle 1387
+#ADC val 681
+Meat Temperature  39.417312, cycle 1388
+#ADC val 673
+Meat Temperature  39.042812, cycle 1389
+#ADC val 678
+Meat Temperature  39.277240, cycle 1390
+#ADC val 677
+Meat Temperature  39.230453, cycle 1391
+#ADC val 676
+Meat Temperature  39.183616, cycle 1392
+#ADC val 673
+Meat Temperature  39.042812, cycle 1393
+#ADC val 675
+Meat Temperature  39.136731, cycle 1394
+#ADC val 675
+Meat Temperature  39.136731, cycle 1395
+#ADC val 679
+Meat Temperature  39.323979, cycle 1396
+#ADC val 676
+Meat Temperature  39.183616, cycle 1397
+#ADC val 668
+Meat Temperature  38.807148, cycle 1398
+#ADC val 670
+Meat Temperature  38.901564, cycle 1399
+#ADC val 673
+Meat Temperature  39.042812, cycle 1400
+#ADC val 672
+Meat Temperature  38.995779, cycle 1401
+#ADC val 674
+Meat Temperature  39.089796, cycle 1402
+#ADC val 672
+Meat Temperature  38.995779, cycle 1403
+#ADC val 672
+Meat Temperature  38.995779, cycle 1404
+#ADC val 673
+Meat Temperature  39.042812, cycle 1405
+#ADC val 669
+Meat Temperature  38.854381, cycle 1406
+#ADC val 668
+Meat Temperature  38.807148, cycle 1407
+#ADC val 666
+Meat Temperature  38.712532, cycle 1408
+#ADC val 670
+Meat Temperature  38.901564, cycle 1409
+#ADC val 667
+Meat Temperature  38.759866, cycle 1410
+#ADC val 665
+Meat Temperature  38.665149, cycle 1411
+#ADC val 667
+Meat Temperature  38.759866, cycle 1412
+#ADC val 667
+Meat Temperature  38.759866, cycle 1413
+#ADC val 668
+Meat Temperature  38.807148, cycle 1414
+#ADC val 672
+Meat Temperature  38.995779, cycle 1415
+#ADC val 666
+Meat Temperature  38.712532, cycle 1416
+#ADC val 668
+Meat Temperature  38.807148, cycle 1417
+#ADC val 666
+Meat Temperature  38.712532, cycle 1418
+#ADC val 668
+Meat Temperature  38.807148, cycle 1419
+#ADC val 665
+Meat Temperature  38.665149, cycle 1420
+#ADC val 664
+Meat Temperature  38.617714, cycle 1421
+#ADC val 666
+Meat Temperature  38.712532, cycle 1422
+#ADC val 665
+Meat Temperature  38.665149, cycle 1423
+#ADC val 668
+Meat Temperature  38.807148, cycle 1424
+#ADC val 670
+Meat Temperature  38.901564, cycle 1425
+#ADC val 660
+Meat Temperature  38.427467, cycle 1426
+#ADC val 663
+Meat Temperature  38.570229, cycle 1427
+#ADC val 662
+Meat Temperature  38.522693, cycle 1428
+#ADC val 662
+Meat Temperature  38.522693, cycle 1429
+#ADC val 660
+Meat Temperature  38.427467, cycle 1430
+#ADC val 661
+Meat Temperature  38.475106, cycle 1431
+#ADC val 660
+Meat Temperature  38.427467, cycle 1432
+#ADC val 657
+Meat Temperature  38.284242, cycle 1433
+#ADC val 656
+Meat Temperature  38.236396, cycle 1434
+#ADC val 662
+Meat Temperature  38.522693, cycle 1435
+#ADC val 663
+Meat Temperature  38.570229, cycle 1436
+#ADC val 664
+Meat Temperature  38.617714, cycle 1437
+#ADC val 661
+Meat Temperature  38.475106, cycle 1438
+#ADC val 659
+Meat Temperature  38.379777, cycle 1439
+#ADC val 662
+Meat Temperature  38.522693, cycle 1440
+#ADC val 660
+Meat Temperature  38.427467, cycle 1441
+#ADC val 659
+Meat Temperature  38.379777, cycle 1442
+#ADC val 657
+Meat Temperature  38.284242, cycle 1443
+#ADC val 658
+Meat Temperature  38.332035, cycle 1444
+#ADC val 659
+Meat Temperature  38.379777, cycle 1445
+#ADC val 652
+Meat Temperature  38.044491, cycle 1446
+#ADC val 657
+Meat Temperature  38.284242, cycle 1447
+#ADC val 655
+Meat Temperature  38.188499, cycle 1448
+#ADC val 655
+Meat Temperature  38.188499, cycle 1449
+#ADC val 657
+Meat Temperature  38.284242, cycle 1450
+#ADC val 656
+Meat Temperature  38.236396, cycle 1451
+#ADC val 654
+Meat Temperature  38.140549, cycle 1452
+#ADC val 655
+Meat Temperature  38.188499, cycle 1453
+#ADC val 656
+Meat Temperature  38.236396, cycle 1454
+#ADC val 653
+Meat Temperature  38.092546, cycle 1455
+#ADC val 651
+Meat Temperature  37.996384, cycle 1456
+#ADC val 653
+Meat Temperature  38.092546, cycle 1457
+#ADC val 652
+Meat Temperature  38.044491, cycle 1458
+#ADC val 652
+Meat Temperature  38.044491, cycle 1459
+#ADC val 657
+Meat Temperature  38.284242, cycle 1460
+#ADC val 655
+Meat Temperature  38.188499, cycle 1461
+#ADC val 647
+Meat Temperature  37.803422, cycle 1462
+#ADC val 648
+Meat Temperature  37.851742, cycle 1463
+#ADC val 651
+Meat Temperature  37.996384, cycle 1464
+#ADC val 651
+Meat Temperature  37.996384, cycle 1465
+#ADC val 644
+Meat Temperature  37.658138, cycle 1466
+#ADC val 651
+Meat Temperature  37.996384, cycle 1467
+#ADC val 650
+Meat Temperature  37.948223, cycle 1468
+#ADC val 650
+Meat Temperature  37.948223, cycle 1469
+#ADC val 651
+Meat Temperature  37.996384, cycle 1470
+#ADC val 649
+Meat Temperature  37.900009, cycle 1471
+#ADC val 649
+Meat Temperature  37.900009, cycle 1472
+#ADC val 647
+Meat Temperature  37.803422, cycle 1473
+#ADC val 649
+Meat Temperature  37.900009, cycle 1474
+#ADC val 648
+Meat Temperature  37.851742, cycle 1475
+#ADC val 649
+Meat Temperature  37.900009, cycle 1476
+#ADC val 652
+Meat Temperature  38.044491, cycle 1477
+#ADC val 642
+Meat Temperature  37.561012, cycle 1478
+#ADC val 649
+Meat Temperature  37.900009, cycle 1479
+#ADC val 650
+Meat Temperature  37.948223, cycle 1480
+#ADC val 644
+Meat Temperature  37.658138, cycle 1481
+#ADC val 644
+Meat Temperature  37.658138, cycle 1482
+#ADC val 647
+Meat Temperature  37.803422, cycle 1483
+#ADC val 646
+Meat Temperature  37.755048, cycle 1484
+#ADC val 643
+Meat Temperature  37.609602, cycle 1485
+#ADC val 642
+Meat Temperature  37.561012, cycle 1486
+#ADC val 641
+Meat Temperature  37.512367, cycle 1487
+#ADC val 647
+Meat Temperature  37.803422, cycle 1488
+#ADC val 641
+Meat Temperature  37.512367, cycle 1489
+#ADC val 639
+Meat Temperature  37.414913, cycle 1490
+#ADC val 645
+Meat Temperature  37.706620, cycle 1491
+#ADC val 642
+Meat Temperature  37.561012, cycle 1492
+#ADC val 642
+Meat Temperature  37.561012, cycle 1493
+#ADC val 641
+Meat Temperature  37.512367, cycle 1494
+#ADC val 644
+Meat Temperature  37.658138, cycle 1495
+#ADC val 646
+Meat Temperature  37.755048, cycle 1496
+#ADC val 633
+Meat Temperature  37.121227, cycle 1497
+#ADC val 640
+Meat Temperature  37.463668, cycle 1498
+#ADC val 639
+Meat Temperature  37.414913, cycle 1499
+#ADC val 638
+Meat Temperature  37.366104, cycle 1500
+#ADC val 639
+Meat Temperature  37.414913, cycle 1501
+#ADC val 645
+Meat Temperature  37.706620, cycle 1502
+#ADC val 642
+Meat Temperature  37.561012, cycle 1503
+#ADC val 643
+Meat Temperature  37.609602, cycle 1504
+#ADC val 639
+Meat Temperature  37.414913, cycle 1505
+#ADC val 639
+Meat Temperature  37.414913, cycle 1506
+#ADC val 639
+Meat Temperature  37.414913, cycle 1507
+#ADC val 636
+Meat Temperature  37.268320, cycle 1508
+#ADC val 639
+Meat Temperature  37.414913, cycle 1509
+#ADC val 637
+Meat Temperature  37.317240, cycle 1510
+#ADC val 637
+Meat Temperature  37.317240, cycle 1511
+#ADC val 635
+Meat Temperature  37.219345, cycle 1512
+#ADC val 636
+Meat Temperature  37.268320, cycle 1513
+#ADC val 637
+Meat Temperature  37.317240, cycle 1514
+#ADC val 633
+Meat Temperature  37.121227, cycle 1515
+#ADC val 637
+Meat Temperature  37.317240, cycle 1516
+#ADC val 634
+Meat Temperature  37.170314, cycle 1517
+#ADC val 639
+Meat Temperature  37.414913, cycle 1518
+#ADC val 633
+Meat Temperature  37.121227, cycle 1519
+#ADC val 633
+Meat Temperature  37.121227, cycle 1520
+#ADC val 631
+Meat Temperature  37.022884, cycle 1521
+#ADC val 634
+Meat Temperature  37.170314, cycle 1522
+#ADC val 630
+Meat Temperature  36.973629, cycle 1523
+#ADC val 633
+Meat Temperature  37.121227, cycle 1524
+#ADC val 631
+Meat Temperature  37.022884, cycle 1525
+#ADC val 632
+Meat Temperature  37.072084, cycle 1526
+#ADC val 629
+Meat Temperature  36.924316, cycle 1527
+#ADC val 637
+Meat Temperature  37.317240, cycle 1528
+#ADC val 629
+Meat Temperature  36.924316, cycle 1529
+#ADC val 631
+Meat Temperature  37.022884, cycle 1530
+#ADC val 630
+Meat Temperature  36.973629, cycle 1531
+#ADC val 630
+Meat Temperature  36.973629, cycle 1532
+#ADC val 632
+Meat Temperature  37.072084, cycle 1533
+#ADC val 631
+Meat Temperature  37.022884, cycle 1534
+#ADC val 634
+Meat Temperature  37.170314, cycle 1535
+#ADC val 632
+Meat Temperature  37.072084, cycle 1536
+#ADC val 633
+Meat Temperature  37.121227, cycle 1537
+#ADC val 634
+Meat Temperature  37.170314, cycle 1538
+#ADC val 631
+Meat Temperature  37.022884, cycle 1539
+#ADC val 628
+Meat Temperature  36.874947, cycle 1540
+#ADC val 628
+Meat Temperature  36.874947, cycle 1541
+#ADC val 628
+Meat Temperature  36.874947, cycle 1542
+#ADC val 627
+Meat Temperature  36.825521, cycle 1543
+#ADC val 632
+Meat Temperature  37.072084, cycle 1544
+#ADC val 628
+Meat Temperature  36.874947, cycle 1545
+#ADC val 627
+Meat Temperature  36.825521, cycle 1546
+#ADC val 626
+Meat Temperature  36.776038, cycle 1547
+#ADC val 628
+Meat Temperature  36.874947, cycle 1548
+#ADC val 630
+Meat Temperature  36.973629, cycle 1549
+#ADC val 619
+Meat Temperature  36.428039, cycle 1550
+#ADC val 625
+Meat Temperature  36.726497, cycle 1551
+#ADC val 625
+Meat Temperature  36.726497, cycle 1552
+#ADC val 629
+Meat Temperature  36.924316, cycle 1553
+#ADC val 621
+Meat Temperature  36.527758, cycle 1554
+#ADC val 622
+Meat Temperature  36.577529, cycle 1555
+#ADC val 623
+Meat Temperature  36.627243, cycle 1556
+#ADC val 626
+Meat Temperature  36.776038, cycle 1557
+#ADC val 621
+Meat Temperature  36.527758, cycle 1558
+#ADC val 625
+Meat Temperature  36.726497, cycle 1559
+#ADC val 623
+Meat Temperature  36.627243, cycle 1560
+#ADC val 622
+Meat Temperature  36.577529, cycle 1561
+#ADC val 621
+Meat Temperature  36.527758, cycle 1562
+#ADC val 622
+Meat Temperature  36.577529, cycle 1563
+#ADC val 623
+Meat Temperature  36.627243, cycle 1564
+#ADC val 623
+Meat Temperature  36.627243, cycle 1565
+#ADC val 628
+Meat Temperature  36.874947, cycle 1566
+#ADC val 618
+Meat Temperature  36.378091, cycle 1567
+#ADC val 622
+Meat Temperature  36.577529, cycle 1568
+#ADC val 623
+Meat Temperature  36.627243, cycle 1569
+#ADC val 621
+Meat Temperature  36.527758, cycle 1570
+#ADC val 624
+Meat Temperature  36.676899, cycle 1571
+#ADC val 623
+Meat Temperature  36.627243, cycle 1572
+#ADC val 621
+Meat Temperature  36.527758, cycle 1573
+#ADC val 620
+Meat Temperature  36.477927, cycle 1574
+#ADC val 626
+Meat Temperature  36.776038, cycle 1575
+#ADC val 622
+Meat Temperature  36.577529, cycle 1576
+#ADC val 616
+Meat Temperature  36.278019, cycle 1577
+#ADC val 619
+Meat Temperature  36.428039, cycle 1578
+#ADC val 620
+Meat Temperature  36.477927, cycle 1579
+#ADC val 616
+Meat Temperature  36.278019, cycle 1580
+#ADC val 615
+Meat Temperature  36.227895, cycle 1581
+#ADC val 617
+Meat Temperature  36.328085, cycle 1582
+#ADC val 616
+Meat Temperature  36.278019, cycle 1583
+#ADC val 619
+Meat Temperature  36.428039, cycle 1584
+#ADC val 618
+Meat Temperature  36.378091, cycle 1585
+#ADC val 618
+Meat Temperature  36.378091, cycle 1586
+#ADC val 618
+Meat Temperature  36.378091, cycle 1587
+#ADC val 618
+Meat Temperature  36.378091, cycle 1588
+#ADC val 616
+Meat Temperature  36.278019, cycle 1589
+#ADC val 614
+Meat Temperature  36.177710, cycle 1590
+#ADC val 615
+Meat Temperature  36.227895, cycle 1591
+#ADC val 615
+Meat Temperature  36.227895, cycle 1592
+#ADC val 613
+Meat Temperature  36.127467, cycle 1593
+#ADC val 612
+Meat Temperature  36.077163, cycle 1594
+#ADC val 613
+Meat Temperature  36.127467, cycle 1595
+#ADC val 613
+Meat Temperature  36.127467, cycle 1596
+#ADC val 616
+Meat Temperature  36.278019, cycle 1597
+#ADC val 614
+Meat Temperature  36.177710, cycle 1598
+#ADC val 614
+Meat Temperature  36.177710, cycle 1599
+#ADC val 614
+Meat Temperature  36.177710, cycle 1600
+#ADC val 607
+Meat Temperature  35.824739, cycle 1601
+#ADC val 613
+Meat Temperature  36.127467, cycle 1602
+#ADC val 611
+Meat Temperature  36.026799, cycle 1603
+#ADC val 612
+Meat Temperature  36.077163, cycle 1604
+#ADC val 607
+Meat Temperature  35.824739, cycle 1605
+#ADC val 616
+Meat Temperature  36.278019, cycle 1606
+#ADC val 609
+Meat Temperature  35.925891, cycle 1607
+#ADC val 608
+Meat Temperature  35.875345, cycle 1608
+#ADC val 612
+Meat Temperature  36.077163, cycle 1609
+#ADC val 608
+Meat Temperature  35.875345, cycle 1610
+#ADC val 609
+Meat Temperature  35.925891, cycle 1611
+#ADC val 608
+Meat Temperature  35.875345, cycle 1612
+#ADC val 610
+Meat Temperature  35.976375, cycle 1613
+#ADC val 607
+Meat Temperature  35.824739, cycle 1614
+#ADC val 607
+Meat Temperature  35.824739, cycle 1615
+#ADC val 611
+Meat Temperature  36.026799, cycle 1616
+#ADC val 608
+Meat Temperature  35.875345, cycle 1617
+#ADC val 610
+Meat Temperature  35.976375, cycle 1618
+#ADC val 608
+Meat Temperature  35.875345, cycle 1619
+#ADC val 609
+Meat Temperature  35.925891, cycle 1620
+#ADC val 604
+Meat Temperature  35.672554, cycle 1621
+#ADC val 605
+Meat Temperature  35.723344, cycle 1622
+#ADC val 605
+Meat Temperature  35.723344, cycle 1623
+#ADC val 604
+Meat Temperature  35.672554, cycle 1624
+#ADC val 605
+Meat Temperature  35.723344, cycle 1625
+#ADC val 606
+Meat Temperature  35.774072, cycle 1626
+#ADC val 610
+Meat Temperature  35.976375, cycle 1627
+#ADC val 610
+Meat Temperature  35.976375, cycle 1628
+#ADC val 611
+Meat Temperature  36.026799, cycle 1629
+#ADC val 606
+Meat Temperature  35.774072, cycle 1630
+#ADC val 604
+Meat Temperature  35.672554, cycle 1631
+#ADC val 603
+Meat Temperature  35.621702, cycle 1632
+#ADC val 607
+Meat Temperature  35.824739, cycle 1633
+#ADC val 603
+Meat Temperature  35.621702, cycle 1634
+#ADC val 602
+Meat Temperature  35.570789, cycle 1635
+#ADC val 597
+Meat Temperature  35.315285, cycle 1636
+#ADC val 607
+Meat Temperature  35.824739, cycle 1637
+#ADC val 605
+Meat Temperature  35.723344, cycle 1638
+#ADC val 596
+Meat Temperature  35.263996, cycle 1639
+#ADC val 600
+Meat Temperature  35.468775, cycle 1640
+#ADC val 599
+Meat Temperature  35.417675, cycle 1641
+#ADC val 597
+Meat Temperature  35.315285, cycle 1642
+#ADC val 603
+Meat Temperature  35.621702, cycle 1643
+#ADC val 601
+Meat Temperature  35.519813, cycle 1644
+#ADC val 604
+Meat Temperature  35.672554, cycle 1645
+#ADC val 603
+Meat Temperature  35.621702, cycle 1646
+#ADC val 597
+Meat Temperature  35.315285, cycle 1647
+#ADC val 599
+Meat Temperature  35.417675, cycle 1648
+#ADC val 603
+Meat Temperature  35.621702, cycle 1649
+#ADC val 600
+Meat Temperature  35.468775, cycle 1650
+#ADC val 598
+Meat Temperature  35.366512, cycle 1651
+#ADC val 600
+Meat Temperature  35.468775, cycle 1652
+#ADC val 599
+Meat Temperature  35.417675, cycle 1653
+#ADC val 596
+Meat Temperature  35.263996, cycle 1654
+#ADC val 599
+Meat Temperature  35.417675, cycle 1655
+#ADC val 597
+Meat Temperature  35.315285, cycle 1656
+#ADC val 598
+Meat Temperature  35.366512, cycle 1657
+#ADC val 600
+Meat Temperature  35.468775, cycle 1658
+#ADC val 601
+Meat Temperature  35.519813, cycle 1659
+#ADC val 601
+Meat Temperature  35.519813, cycle 1660
+#ADC val 600
+Meat Temperature  35.468775, cycle 1661
+#ADC val 595
+Meat Temperature  35.212643, cycle 1662
+#ADC val 598
+Meat Temperature  35.366512, cycle 1663
+#ADC val 597
+Meat Temperature  35.315285, cycle 1664
+#ADC val 593
+Meat Temperature  35.109747, cycle 1665
+#ADC val 600
+Meat Temperature  35.468775, cycle 1666
+#ADC val 594
+Meat Temperature  35.161227, cycle 1667
+#ADC val 598
+Meat Temperature  35.366512, cycle 1668
+#ADC val 596
+Meat Temperature  35.263996, cycle 1669
+#ADC val 593
+Meat Temperature  35.109747, cycle 1670
+#ADC val 593
+Meat Temperature  35.109747, cycle 1671
+#ADC val 598
+Meat Temperature  35.366512, cycle 1672
+#ADC val 592
+Meat Temperature  35.058203, cycle 1673
+#ADC val 596
+Meat Temperature  35.263996, cycle 1674
+#ADC val 595
+Meat Temperature  35.212643, cycle 1675
+#ADC val 594
+Meat Temperature  35.161227, cycle 1676
+#ADC val 591
+Meat Temperature  35.006594, cycle 1677
+#ADC val 594
+Meat Temperature  35.161227, cycle 1678
+#ADC val 595
+Meat Temperature  35.212643, cycle 1679
+#ADC val 595
+Meat Temperature  35.212643, cycle 1680
+#ADC val 593
+Meat Temperature  35.109747, cycle 1681
+#ADC val 595
+Meat Temperature  35.212643, cycle 1682
+#ADC val 590
+Meat Temperature  34.954921, cycle 1683
+#ADC val 586
+Meat Temperature  34.747580, cycle 1684
+#ADC val 592
+Meat Temperature  35.058203, cycle 1685
+#ADC val 590
+Meat Temperature  34.954921, cycle 1686
+#ADC val 591
+Meat Temperature  35.006594, cycle 1687
+#ADC val 589
+Meat Temperature  34.903184, cycle 1688
+#ADC val 590
+Meat Temperature  34.954921, cycle 1689
+#ADC val 588
+Meat Temperature  34.851381, cycle 1690
+#ADC val 588
+Meat Temperature  34.851381, cycle 1691
+#ADC val 590
+Meat Temperature  34.954921, cycle 1692
+#ADC val 589
+Meat Temperature  34.903184, cycle 1693
+#ADC val 591
+Meat Temperature  35.006594, cycle 1694
+#ADC val 586
+Meat Temperature  34.747580, cycle 1695
+#ADC val 588
+Meat Temperature  34.851381, cycle 1696
+#ADC val 591
+Meat Temperature  35.006594, cycle 1697
+#ADC val 593
+Meat Temperature  35.109747, cycle 1698
+#ADC val 586
+Meat Temperature  34.747580, cycle 1699
+#ADC val 585
+Meat Temperature  34.695582, cycle 1700
+#ADC val 588
+Meat Temperature  34.851381, cycle 1701
+#ADC val 591
+Meat Temperature  35.006594, cycle 1702

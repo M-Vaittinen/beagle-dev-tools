@@ -1,0 +1,11 @@
+[Unit]
+Description=Oven temp service
+
+[Service]
+Type=oneshot
+ExecStart=/savustin/core/oven_temp.sh
+StandardOutput=null
+
+[Install]
+WantedBy=multi-user.target
+Alias=oven_temp.service
