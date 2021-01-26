@@ -84,14 +84,15 @@ Resistor
 1pcs
 
 Meat temperature probe:
-NTC type meat temperature probe with 3.5mm jack.
+NTC type meat temperature probe with 2.5mm jack.
 NOTE: current schema/gerber connects the probe to high side of voltage divider,
-thus the cord/probe must not be connected to ground pole of connector. This
-is a nasty issue because most of the probes are. (You can test this by
-multimeter - just try with beeber setting if cord/probe are connected to tip or
-sleeve of the jack. If yes, then the probe does not suit with the current
-schema/code. I have only managed to get one probe which suits this use and
-unfortunately I don't remember where I bought it :(
+thus the cord/probe shell must be isolated from the connector. This
+is a nasty issue because most of the probes are actually such that the probe
+shell and cord are directly connected to the jack sleeve. (You can test this by
+multimeter - just try with beeber setting if cord/probe are connected to sleeve
+of the jack. If yes, then the probe does not suit with the current schema/code.)
+I have only managed to get one probe which suits this use and unfortunately I
+don't remember where I bought it :(
 1 pcs
 
 LED display:

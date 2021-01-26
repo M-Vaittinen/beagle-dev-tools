@@ -8,12 +8,12 @@ design. It is only provided for academic interest.
 
 Note.
 The food temperature measurement circuit connects food temperature probe (NTC
-connected to board using 3.5mm jack, J2) to high end of a voltage divider. This
+connected to board using 2.5mm jack, J2) to high end of a voltage divider. This
 works only when food temperature probe's cord / probe itself is isolated from
-the jack's tip/sleeve. Unfortunately many probes seem to not be doing this.
+the jack. Unfortunately many probes seem to not be doing this. (Eg, many probes
+have the cord/probe shell electrically connected to sleeve of the jack).
 
 I guess the circuitry would work (better) with more probes if the food probe
 was added to GND side of voltage divider, so that the part of connector which
-is connected to cord would be at GND. (I should check whether it is tip or
-sleeve). This would require modifying the resistance and temperature
+is connected to cord would be at GND. This would require modifying the resistance and temperature
 computations.
