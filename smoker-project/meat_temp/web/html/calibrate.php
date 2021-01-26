@@ -23,7 +23,7 @@
 </ul>
 <p>
 <!-- Smoker saves one previous calibration for restoring.<br>
-TODL: If the calbration fails you should be able to restore previuously used calibration by clicking 'restore'<br>
+TODO: If the calbration fails you should be able to restore previuously used calibration by clicking 'restore'<br>
 -->
 <table border="1">
 
@@ -45,7 +45,8 @@ echo '<tr> <td>';
 		$ctr++;
 		echo $temp;
 		echo '<input type="hidden" name="'.$temps[$i].'" value="'.$temp.'"/></td><td>';
-		if (isset($_POST[$res[$i]]) && ctype_digit($_POST[$res[$i]]))
+//		if (isset($_POST[$res[$i]]) && ctype_digit($_POST[$res[$i]]))
+		if (isset($_POST[$res[$i]]))
 		{
 			$resistance = $_POST[$res[$i]];
 		}

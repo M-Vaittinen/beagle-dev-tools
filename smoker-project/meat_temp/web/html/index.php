@@ -17,15 +17,12 @@ header("Refresh:$secondsWait");
 <?php
   $forced = trim(file_get_contents('/savustin/tmp/forcevalue'));
   if ($forced == 1) {
-	echo "<h1>WARNING! FORCED MODE - DISCARDING TARGET TEMP!</h1>";	
+	echo "<h1>WARNING! FORCED MODE - DISCARDING TARGET TEMP!</h1>";
 }
 ?>
-  <h1>Savusta Mua</h1>
-  <a href="oven.log">debug log</a>
-  <p>
-  <a href="shutdown.php">Beagle shutdown</a>
-  <p>
-<table>
+  <h1>Smoke It</h1>
+
+<table border="1">
 <tr>
 <td>
 <?php
@@ -36,34 +33,9 @@ header("Refresh:$secondsWait");
 ?>
 </td>
 <td>
-</td>
-</tr>
-<tr><td>
-  <img src="image.php" alt="temperatures">
-<p>
-</td>
-<td>
-<?php
-	$warming = trim(file_get_contents('/sys/class/gpio/gpio61/value'));
-	if ($warming == 1) {
-		$img = "images/red-led.png";
-		$text = "Heating...";
-	}
-	else
-	{
-		$img = "images/green-led.png";
-		$text = "Not Heating";
-	}
-	echo "<h3>$text</h3>";
-	echo "<img src=\"$img\" alt=\"$text\">";
-?> 
-</td>
-</tr>
-<tr>
-<td>
 <?php
 	$number = trim(file_get_contents('meat_temp'));
-	echo "<h3>Food temperature (last measurement $number)</h3>";
+	echo "<h3>Food temperatire (last measured $number)</h3>";
         $mtt = trim(file_get_contents('/savustin/tmp/meat_target_temp'));
 	if ($mtt <=  $number) {
 		echo '<audio controls autoplay>';
@@ -72,12 +44,48 @@ header("Refresh:$secondsWait");
   		echo '<h1>FOOD ready!</h1>';
 	}
 ?>
-<img src="image2.php" alt="temperatures">
 </td>
 <td>
-
+<?php
+	$warming = trim(file_get_contents('/sys/class/gpio/gpio61/value'));
+	if ($warming == 1) {
+		$text = "Heating...";
+	}
+	else
+	{
+		$text = "Heater OFF";
+	}
+	echo "<h3>$text</h3>";
+?>
+</td>
+</tr>
+<tr><td>
+  <img src="image.php" alt="temperatures" style="display.block; margin:auto;">
+<p>
+</td>
+<td>
+<img src="image2.php" alt="temperatures">
+</td>
+<td style="vertical-align:top">
+<?php
+	$warming = trim(file_get_contents('/sys/class/gpio/gpio61/value'));
+	if ($warming == 1) {
+		$img = "images/red-led.png";
+	}
+	else
+	{
+		$img = "images/green-led.png";
+	}
+	echo "<img src=\"$img\" alt=\"$text\" width=\"80\" height=\"80\">";
+?>
 </td>
 </tr>
 </table>
+
+  <p>
+  <a href="shutdown.php">Shut down (connection will be lost) </a>
+  <p>
+  <a href="oven.log">debug log</a>
+  <p>
 </body>
 </html>
