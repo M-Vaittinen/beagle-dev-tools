@@ -1,3 +1,10 @@
+/*
+ * Calculate coefficients based on three temperature:resistance pairs
+ *
+ * Get file containing temp/res pairs and coefficient output files as input.
+ *
+ * At success: Write coefficients at output file.
+ */
 #include <stdio.h>
 #include <math.h>
 #include <stdint.h>
@@ -34,7 +41,6 @@ int calc_coefficients(long double *R, long double *T, long double *A,
 		      long double *B, long double *C)
 {
 	long double a, b, c, help100, help2, bterm100, bterm2, aterm100, aterm2, aterm3;
-	
 
 	a = logl(R[0]);
 	b = logl(R[1]);
@@ -44,18 +50,15 @@ int calc_coefficients(long double *R, long double *T, long double *A,
 	printf("b=%Lf\n",b);
 	printf("c=%Lf\n",c);
 
-	//help1 = 1 / T[2] - 1 / T[0] - (1/T[1] - 1/T[0]) * (c - a) / (b - a);
 	help100 = 100 / T[2] - 100 / T[0] - (100/T[1] - 100/T[0]) * (c - a) / (b - a);
 	printf("help100 = %Lf\n", help100);
 	help2 = power(c, 3) - power(a, 3) - (power(b, 3) - power(a, 3)) / ( b - a) * (c - a);
 	printf("help2 = %Lf\n", help2);
 
-//	*C = help1 / help2;
 	*C = help100 / help2;
 
 	printf("C100 = %Lf\n", *C);
 
-//	bterm1 = (1/T[1] - 1/T[0])/(b - a);
 	bterm100 = (100/T[1] - 100/T[0])/(b - a);
 	bterm2 = *C * (power(b, 3) - power(a, 3))/(b - a);
 
@@ -67,18 +70,14 @@ int calc_coefficients(long double *R, long double *T, long double *A,
 
 	printf("B100 = %Lf\n", *B);
 
-//	*B = *C * (power(a, 3) - power(b, 3)) / (b - a) +
-//	     (1/T[1] - 1/T[0]) / (b - a);
 
 	aterm100 = 100/T[0];
-//	aterm1 = 1/T[0];
 	aterm2 = *B*a;
 	aterm3 = *C*power(a,3);
 
 	printf("aterm100 = %Lf\n", aterm100);
 
 
-//	*A = 1/T[0] - *B*a - *C*a^3;
 	*A = aterm100 - aterm2 - aterm3;
 
 	printf("aterm1 (100) = %Lf\n", aterm100);
