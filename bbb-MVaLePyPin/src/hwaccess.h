@@ -22,7 +22,8 @@ void hw_close(void);
 /* Returns non-zero if hardware access is available. */
 int hw_available(void);
 
-/* Returns a string describing the access method ("devmem" / "kmod" / "none"). */
+/* Returns a string describing the access method ("devmem" / "kmod" / "none").
+ */
 const char *hw_method(void);
 
 /* Read a 32-bit register at the given physical address.

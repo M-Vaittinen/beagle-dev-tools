@@ -33,53 +33,54 @@
 
 #include <stdint.h>
 
-#define CM_BASE     0x44E10000U  /* Control Module base */
-#define GPIO0_BASE  0x44E07000U  /* GPIO bank 0 */
-#define GPIO1_BASE  0x4804C000U  /* GPIO bank 1 */
-#define GPIO2_BASE  0x481AC000U  /* GPIO bank 2 */
-#define GPIO3_BASE  0x481AE000U  /* GPIO bank 3 */
+#define CM_BASE 0x44E10000U /* Control Module base */
+#define GPIO0_BASE 0x44E07000U /* GPIO bank 0 */
+#define GPIO1_BASE 0x4804C000U /* GPIO bank 1 */
+#define GPIO2_BASE 0x481AC000U /* GPIO bank 2 */
+#define GPIO3_BASE 0x481AE000U /* GPIO bank 3 */
 
 /* GPIO register offsets (same for all banks) */
-#define GPIO_OE           0x134U
-#define GPIO_DATAIN       0x138U
-#define GPIO_DATAOUT      0x13CU
+#define GPIO_OE 0x134U
+#define GPIO_DATAIN 0x138U
+#define GPIO_DATAOUT 0x13CU
 #define GPIO_CLEARDATAOUT 0x190U
-#define GPIO_SETDATAOUT   0x194U
+#define GPIO_SETDATAOUT 0x194U
 
 /* conf_* register bitfield values */
-#define CONF_MUXMODE(x)   ((x) & 0x7U)
-#define CONF_PULLUDEN     (1U << 3)  /* 1 = pull disabled */
-#define CONF_PULLTYPESEL  (1U << 4)  /* 1 = pullup */
-#define CONF_RXACTIVE     (1U << 5)  /* 1 = input buffer enabled */
-#define CONF_SLEWCTRL     (1U << 6)  /* 1 = slow slew */
+#define CONF_MUXMODE(x) ((x) & 0x7U)
+#define CONF_PULLUDEN (1U << 3) /* 1 = pull disabled */
+#define CONF_PULLTYPESEL (1U << 4) /* 1 = pullup */
+#define CONF_RXACTIVE (1U << 5) /* 1 = input buffer enabled */
+#define CONF_SLEWCTRL (1U << 6) /* 1 = slow slew */
 
 /* Common conf values */
-#define CONF_GPIO_OUTPUT  (CONF_MUXMODE(7) | CONF_PULLUDEN)
-#define CONF_GPIO_INPUT   (CONF_MUXMODE(7) | CONF_PULLUDEN | CONF_RXACTIVE)
+#define CONF_GPIO_OUTPUT (CONF_MUXMODE(7) | CONF_PULLUDEN)
+#define CONF_GPIO_INPUT (CONF_MUXMODE(7) | CONF_PULLUDEN | CONF_RXACTIVE)
 
-#define NUM_MODES 8  /* MODE0 .. MODE7 (MODE7 always GPIO) */
+#define NUM_MODES 8 /* MODE0 .. MODE7 (MODE7 always GPIO) */
 
-typedef struct {
-    const char  *name;            /* Header pin name, e.g. "P8_03" */
-    const char  *ball;            /* AM3358 ZCZ ball ID, e.g. "R9" */
-    const char  *conf_reg_name;   /* Control Module register name, e.g. "conf_gpmc_ad6" */
-    uint32_t     conf_reg_offset; /* Offset from CM_BASE, e.g. 0x818 */
-    int          gpio_bank;       /* GPIO bank (0-3), or -1 if no GPIO */
-    int          gpio_bit;        /* GPIO bit within bank (0-31) */
-    const char  *mode[NUM_MODES]; /* Signal names for MODE0..MODE7 */
-    const char  *note;            /* Optional note (may be NULL) */
-} pin_info_t;
+struct pin_info {
+	const char *name; /* Header pin name, e.g. "P8_03" */
+	const char *ball; /* AM3358 ZCZ ball ID, e.g. "R9" */
+	const char *conf_reg_name; /* Control Module register name, e.g.
+				      "conf_gpmc_ad6" */
+	uint32_t conf_reg_offset; /* Offset from CM_BASE, e.g. 0x818 */
+	int gpio_bank; /* GPIO bank (0-3), or -1 if no GPIO */
+	int gpio_bit; /* GPIO bit within bank (0-31) */
+	const char *mode[NUM_MODES]; /* Signal names for MODE0..MODE7 */
+	const char *note; /* Optional note (may be NULL) */
+};
 
 /* Connector P8: 44 pins (P8_01/02 = GND, P8_03..P8_46 usable) */
-extern const pin_info_t p8_pins[];
-extern const int        p8_pin_count;
+extern const struct pin_info p8_pins[];
+extern const int p8_pin_count;
 
 /* Connector P9: entries for all configurable P9 pins */
-extern const pin_info_t p9_pins[];
-extern const int        p9_pin_count;
+extern const struct pin_info p9_pins[];
+extern const int p9_pin_count;
 
 /* Look up pin by name (e.g. "P8_03" or "p8_03").  Returns NULL if not found. */
-const pin_info_t *pin_find(const char *name);
+const struct pin_info *pin_find(const char *name);
 
 /* Return GPIO base address for the given bank (0-3), or 0 if invalid. */
 uint32_t gpio_base(int bank);

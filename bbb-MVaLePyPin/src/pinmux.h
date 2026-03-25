@@ -6,10 +6,10 @@
 #include "pindata.h"
 
 /* Print a table of all 8 mux modes for the pin */
-void pinmux_print_modes(const pin_info_t *pin);
+void pinmux_print_modes(const struct pin_info *pin);
 
 /* Print the pinmux control register address and bitfield description */
-void pinmux_print_reg(const pin_info_t *pin);
+void pinmux_print_reg(const struct pin_info *pin);
 
 /* Decode and print a raw conf_* register value */
 void pinmux_decode_value(uint32_t value);
