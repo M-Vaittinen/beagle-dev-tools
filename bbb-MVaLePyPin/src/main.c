@@ -17,6 +17,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
+#include <unistd.h>
+#include <sys/ioctl.h>
 #include "miniline.h"
 
 #include "pindata.h"
@@ -392,7 +394,41 @@ static void print_help(void)
 "    readreg 0x44E10840\n"
 "\n"
 "    quit / exit              Exit the shell\n"
+"    ÄoÄ                      ???\n"
     );
+}
+
+/* ------------------------------------------------------------------ */
+/* Easter egg                                                          */
+/* ------------------------------------------------------------------ */
+
+static void cmd_easter_egg(void)
+{
+    struct winsize ws;
+    int rows = 24, cols = 80;
+    /* "Älä Ole Äkänen" is 14 display columns wide (UTF-8 multibyte) */
+    const char *msg        = "\xC3\x84l\xC3\xA4 Ole \xC3\x84k\xC3\xA4nen";
+    const int   msg_dwidth = 14;
+    int row, col;
+
+    if (ioctl(STDOUT_FILENO, TIOCGWINSZ, &ws) == 0) {
+        if (ws.ws_row > 0) rows = ws.ws_row;
+        if (ws.ws_col > 0) cols = ws.ws_col;
+    }
+
+    row = rows / 2;
+    col = (cols - msg_dwidth) / 2 + 1;
+    if (col < 1) col = 1;
+
+    /* Clear screen, move to vertical/horizontal centre, print in bold */
+    printf("\x1b[2J\x1b[%d;%dH\x1b[1m%s\x1b[0m", row, col, msg);
+    fflush(stdout);
+
+    sleep(5);
+
+    /* Clear screen and return cursor to top-left; shell loop reprints prompt */
+    printf("\x1b[2J\x1b[H");
+    fflush(stdout);
 }
 
 /* ------------------------------------------------------------------ */
@@ -440,6 +476,12 @@ static int dispatch(char *line)
         *p = (char)tolower((unsigned char)*p);
 
     /* --- Dispatch --- */
+
+    /* Easter egg: "ÄoÄ" — Ä is non-ASCII so tolower leaves it intact */
+    if (strcmp(cmd, "\xC3\x84o\xC3\x84") == 0) {
+        cmd_easter_egg();
+        return 0;
+    }
 
     if (strcmp(cmd, "help") == 0 || strcmp(cmd, "?") == 0) {
         print_help();

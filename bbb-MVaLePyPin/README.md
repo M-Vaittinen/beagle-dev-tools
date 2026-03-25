@@ -19,6 +19,7 @@ the BeagleBone Black (P8 / P9 expansion connectors).
 ## Quick Start
 
 ```
+bbbLePy> ÄoÄ               # important guidance for user
 bbbLePy> info P9_15        # full pin summary
 bbbLePy> mux  P8_13        # show mux mode table
 bbbLePy> reg  P9_15        # show pinmux register details
